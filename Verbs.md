@@ -1,4 +1,5 @@
 ## Verbs
+* **Allow _Allowed Allowed_** `Permitir`
 * **Buy _Bought Bought_** `Comprar`
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
@@ -13,6 +14,7 @@
 * **Skate _Skated Skated_** `Patinar`
 * **Sing _Sang Sung_** `Cantar`
 * **Travel _Traveled Traveled_** `Viajar`
+* **Throw _Threw Thrown_** `Lanzar`
 * **Ride _Rided Rided_** `Montar`
 
 
