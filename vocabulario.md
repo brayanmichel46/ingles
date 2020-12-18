@@ -10,7 +10,8 @@
 * **fancy** `elaborado elegante` _the party was very facy_
 * **bored** `aburrido o aburrida` _he is bored_ `El esta aburrido`
 * **boring** `soy aburrido` _I am boring_ `soy aburrido`
-
+* **Angry** `Enojado` _to became angry_ `Empesar a enojarse`
+* **aware** `Conciente` _to became to **aware**_ `volverser conciente, me di cuenta, tome conciencia`
 # Expressions
 * **small talk** `charla`
 * **is time board to flight** `hora de abordar su vuelo`
@@ -18,6 +19,7 @@
 * **show off** `Presumir
 * **usually** `Por lo general, generalmente`
 * **sometimes** `Algunas veces`
+* **has gone** `Como te va` _Hi has gone_ `Saludo informal`
 # Falses cognates
 * **susceptible** `propenso`
 * **embarrassed** `avergonzado`
@@ -33,7 +35,7 @@
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
 * **Clean _Cleaned Cleaned** `Limpiar`
-* **
+* **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
 * **Open _Opened Opened_** `Abrir`
 * **Watch _Watched Watched_** `Mirar`
 * **Paint _Painted Paintend_** `Pintar`
