@@ -22,7 +22,12 @@
 * **check in** `Registrarse` _hello, are you check in - yes i am check in, my name is michel_ 
 * **book** `reserva o libro` _you have a book for two night - yes its right - ok, just need your credit card_ `Tienes una reserva por dos noches - si eso es correcto - bien, solo nesecito tu tarjeta de credito` 
 * **floor** `piso` _what floor is this, this is the second floor_ `que piso es este`
-
+* **nevermind** `no importa` _No importa_
+* **huge** `enorme` _this hotel is huge_ `el hotel es enorme`
+* **large** `grande` _yes it is very large_ 
+* **sure** `porsupuesto` _do you would like for a coffe - sure_ `Te gustaria ir por un cafe - seguro`
+* **nice** `bonito` _is a quite nice room_ `Es una habitación bastante bonita`
+* **quite** `bastante` _the room is quite large_ `la habitacion es bastante grande`
 
 
 # Expressions
@@ -43,11 +48,9 @@
 * **I am going to** `voy a , futuro inmediato` _I am going to practice may english now_ `Voy a practicar mi ingles ahora_
 * **dont worry** `No te preocupes` _thank you for helping me with the problem - your are welcome, dont worry_
 * **I am sorry** `lo siento` _i am sorry, no, i don't nevermind_
-* **nevermind** `no importa` _No importa_
-* **huge** `enorme` _this hotel is huge_ `el hotel es enorme`
-* **large** `grande` _yes it is very large_ 
-* **sure** `porsupuesto` _do you would like for a coffe - sure_ `Te gustaria ir por un cafe - seguro`
-* **quite** `cuarto` _is a quite room_ `Es una habitación bastante bonita`
+* **not working** `no funciona` _hello the air conditioner not working_ `hola, el aire acondicionado no funciona`
+* **swimming pool** `piscina` _do you can say me where is the swimming pool, - no problem - the swimming pool is in the penthouse - thank you - you are welcome miss Medina_
+* **you now** `ahora, pues muletilla puede ser irritante` _Well, I've told you now._
  
 
 # Falses cognates
@@ -85,6 +88,7 @@
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
 * **Ride _Rided Rided_** `Montar`
+* **Ring _Rang Rung_** `sonar`_the air conditioner ring very hard in the room_
 * **Uncourage _Uncouraged Uncouraged** `animar, fomentar` _I uncouraged to my mother_
 
 
