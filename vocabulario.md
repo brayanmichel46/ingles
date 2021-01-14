@@ -41,6 +41,15 @@
 * **bag handbag** `bolso`
 * **briefcase** `portafolio`
 * **spray jar** `tarro de rocear`_that spray jar have alcohol inside_ `ese frasco de rocear tiene alcohol adentro en su interior`
+* **prison** `pricion`
+* **jeil** `carcel`
+* **sentence** `sentencia o oracion frase` _today, we will talking about prison sentence_ `hoy hablaremos de sentencias de prision`
+* **thief** `ladròn`
+* **court** `tribunal corte`
+* **crime felony** `crimen, delito`
+* **a criminal** `un delincuente`
+* **seems or seems like** `parece` _he seems friendly or nice_ ` ` _that seems like a good idea_
+* **aparently** `por lo visto, aparentemente` _aparently you are tired_
 # Expressions
 * **small talk** `charla`
 * **is time board to flight** `hora de abordar su vuelo`
@@ -62,6 +71,7 @@
 * **not working** `no funciona` _hello the air conditioner not working_ `hola, el aire acondicionado no funciona`
 * **swimming pool** `piscina` _do you can say me where is the swimming pool, - no problem - the swimming pool is in the penthouse - thank you - you are welcome miss Medina_
 * **you now** `ahora, pues muletilla puede ser irritante` _Well, I've told you now._
+* **it appears** `parece` _it appears that i am boring_
  
 
 # Falses cognates
