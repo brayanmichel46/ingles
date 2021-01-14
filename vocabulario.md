@@ -28,8 +28,19 @@
 * **sure** `porsupuesto` _do you would like for a coffe - sure_ `Te gustaria ir por un cafe - seguro`
 * **nice** `bonito` _is a quite nice room_ `Es una habitación bastante bonita`
 * **quite** `bastante` _the room is quite large_ `la habitacion es bastante grande`
-
-
+* **desk** `Escritorio` _My desk is brown color_ `Mi escritorio es color azul`
+* **hands** `manos`
+* **mask** `marcara tapabocas`
+* **stuffed animal** `peluche`
+* **keyboard** `teclado`
+* **sheet** `hoja`
+* **drawer** `cajon`
+* **chair** `silla`
+* **licence** `carnet, licencia`
+* **wallet** `billetera, cartera`
+* **bag handbag** `bolso`
+* **briefcase** `portafolio`
+* **spray jar** `tarro de rocear`_that spray jar have alcohol inside_ `ese frasco de rocear tiene alcohol adentro en su interior`
 # Expressions
 * **small talk** `charla`
 * **is time board to flight** `hora de abordar su vuelo`
