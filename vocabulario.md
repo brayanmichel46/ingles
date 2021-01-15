@@ -72,7 +72,15 @@
 * **swimming pool** `piscina` _do you can say me where is the swimming pool, - no problem - the swimming pool is in the penthouse - thank you - you are welcome miss Medina_
 * **you now** `ahora, pues muletilla puede ser irritante` _Well, I've told you now._
 * **it appears** `parece` _it appears that i am boring_
- 
+* **external** `externo`
+* **extreme** `extremo`
+* **cloud** `nubers`
+* **quality** `calidad, cualidad`
+* **polictic** `politica reglamento`
+* **statecraft** `arte de gobernar, politica`
+* **mission** `mision`
+* **same** `mismo misma`
+* **evacuation** `evacuacion`
 
 # Falses cognates
 * **susceptible** `propenso`
