@@ -59,6 +59,7 @@
 * **mission** `mision`
 * **same** `mismo misma`
 * **evacuation** `evacuacion`
+
 # Expressions
 * **small talk** `charla`
 * **is time board to flight** `hora de abordar su vuelo`
@@ -114,6 +115,7 @@
 * **Come _Came Come_** `Venir`
 * **Skate _Skated Skated_** `Patinar`
 * **Sing _Sang Sung_** `Cantar`
+* **Surprice Supriced Surprice** `sorprender` _I was surpriced_ `me sorprendi` 
 * **Talk _Talked Talked_** `hablar` _I will talked with she_
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
