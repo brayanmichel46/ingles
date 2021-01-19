@@ -66,7 +66,11 @@
 * **outlet, power point** `tomacorriente` _where there is an outlet_ `donde hay un toma corriente` _it is overthere_ 
 * **sweetheart** `cariño, novia` _I love you sweetheard_ `te amo cariño`
 * **dumbbell** `mancuerna` _I lifted a 20lb dumbbell_ `
-
+* **brand** `marca de acero`
+* **tattoo** `tatuaje` _I wanna get a tatto_ `quiero hacerme un tatuaje` _I'd like to get a tattoo_
+# Contraction 
+* **want to - wanna**  `quiero`
+* **going to - gonna** `voy a`
 # Expressions
 * **small talk** `charla`
 * **is time board to flight** `hora de abordar su vuelo`
@@ -125,6 +129,7 @@
 * **Sing _Sang Sung_** `Cantar`
 * **Surprice Supriced Surprice** `sorprender` _I was surpriced_ `me sorprendi` 
 * **Talk _Talked Talked_** `hablar` _I will talked with she_
+* **Tattoo _Tattooed Tattooed_** `tatuar` _he tattooed me_ `el me tatuo` _i have tattooed a wolf_ `me he tatuado un lobo`
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
 * **Rent _Rented Rented_** `alquilado` _chairs are rented_ `se alquilan sillas`
