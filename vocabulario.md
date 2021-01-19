@@ -68,6 +68,7 @@
 * **dumbbell** `mancuerna` _I lifted a 20lb dumbbell_ `
 * **brand** `marca de acero`
 * **tattoo** `tatuaje` _I wanna get a tatto_ `quiero hacerme un tatuaje` _I'd like to get a tattoo_
+* **through** `atravez de`
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
