@@ -59,6 +59,13 @@
 * **mission** `mision`
 * **same** `mismo misma`
 * **evacuation** `evacuacion`
+* **developer** `desarrollador` _I'll be a senior developer_ `Sere un desarrollador senior`
+* **rent** `alquiler` _I pay $500 rent_
+* **development** `desarrollo` _Software development_ `desarrollo de software`
+* **adhesive tape** `cinta adhesiva` _give me adhesive tape_ `dame la cinta adhesiva`
+* **outlet, power point** `tomacorriente` _where there is an outlet_ `donde hay un toma corriente` _it is overthere_ 
+* **sweetheard** `cariño, novia` _I love you sweetheard_ `te amo cariño`
+
 
 # Expressions
 * **small talk** `charla`
@@ -119,6 +126,7 @@
 * **Talk _Talked Talked_** `hablar` _I will talked with she_
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
+* **rented** `alquilado` _chairs are rented_ `se alquilan sillas`
 * **Ride _Rided Rided_** `Montar`
 * **Ring _Rang Rung_** `sonar`_the air conditioner ring very hard in the room_
 * **Uncourage _Uncouraged Uncouraged** `animar, fomentar` _I uncouraged to my mother_
