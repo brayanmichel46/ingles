@@ -65,7 +65,7 @@
 * **adhesive tape** `cinta adhesiva` _give me adhesive tape_ `dame la cinta adhesiva`
 * **outlet, power point** `tomacorriente` _where there is an outlet_ `donde hay un toma corriente` _it is overthere_ 
 * **sweetheard** `cariño, novia` _I love you sweetheard_ `te amo cariño`
-
+* **dumbbell** `mancuerna` _I lifted a 20lb dumbbell_ `
 
 # Expressions
 * **small talk** `charla`
@@ -112,6 +112,7 @@
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
 * **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
 * **Joke _Joked Joked_** `bromear` _He joke, he joked_ `el bromea, el bromeo`
+* **Lift _lifted Lifted** `levantar, elevar` 
 * **need _needed Needed** `Nesecitar` _just need_ `solo nesecito` 
 * **Open _Opened Opened_** `Abrir`
 * **Watch _Watched Watched_** `Mirar`
@@ -126,7 +127,7 @@
 * **Talk _Talked Talked_** `hablar` _I will talked with she_
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
-* **rented** `alquilado` _chairs are rented_ `se alquilan sillas`
+* **Rent _Rented Rented_** `alquilado` _chairs are rented_ `se alquilan sillas`
 * **Ride _Rided Rided_** `Montar`
 * **Ring _Rang Rung_** `sonar`_the air conditioner ring very hard in the room_
 * **Uncourage _Uncouraged Uncouraged** `animar, fomentar` _I uncouraged to my mother_
