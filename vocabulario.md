@@ -64,7 +64,7 @@
 * **development** `desarrollo` _Software development_ `desarrollo de software`
 * **adhesive tape** `cinta adhesiva` _give me adhesive tape_ `dame la cinta adhesiva`
 * **outlet, power point** `tomacorriente` _where there is an outlet_ `donde hay un toma corriente` _it is overthere_ 
-* **sweetheard** `cariño, novia` _I love you sweetheard_ `te amo cariño`
+* **sweetheart** `cariño, novia` _I love you sweetheard_ `te amo cariño`
 * **dumbbell** `mancuerna` _I lifted a 20lb dumbbell_ `
 
 # Expressions
