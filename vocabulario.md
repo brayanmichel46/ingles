@@ -69,6 +69,9 @@
 * **brand** `marca de acero`
 * **tattoo** `tatuaje` _I wanna get a tatto_ `quiero hacerme un tatuaje` _I'd like to get a tattoo_
 * **through** `atravez de`
+* **without** `sin` _without any money_ `sin nada de dinero
+* **glad** `contento alegre` _ i am glad to heart that_ `me alegra oir eso`
+
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
