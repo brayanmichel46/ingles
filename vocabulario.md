@@ -71,6 +71,9 @@
 * **through** `atravez de`
 * **without** `sin` _without any money_ `sin nada de dinero
 * **glad** `contento alegre` _ i am glad to heart that_ `me alegra oir eso`
+* **acording to** `segun` _acording to cecilia learning english is fun_ 
+* **pleasure** `plaser` _always is pleasure see you_ `siempre es un placer verte`
+* **
 
 # Contraction 
 * **want to - wanna**  `quiero`
@@ -96,8 +99,9 @@
 * **not working** `no funciona` _hello the air conditioner not working_ `hola, el aire acondicionado no funciona`
 * **swimming pool** `piscina` _do you can say me where is the swimming pool, - no problem - the swimming pool is in the penthouse - thank you - you are welcome miss Medina_
 * **you now** `ahora, pues muletilla puede ser irritante` _Well, I've told you now._
-* **it appears** `parece` _it appears that i am boring_
-
+* **it appears that** `parece` _it appears that i am boring_ `parece que you soy aburrido_ 
+* **apparently** `aparentemente` _apparently you are tired_ `aparentemente tu estas cansada`
+* **
 
 # Falses cognates
 * **susceptible** `propenso`
@@ -113,6 +117,7 @@
 * **Battle _Battled Battle_** `Combatir, luchar` _I battling_ `estoy luchando combatiendo`
 * **Buy _Bought Bought_** `Comprar`
 * **Became _Become Became_** `Empezar` _she became sad_ _I became angry_
+* **Behave _Behaved Behaved_** `Comportar actuar`
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
 * **Catch _Caught Caught_** `atrapar, capturar`_I caught the error_ 
