@@ -73,8 +73,11 @@
 * **glad** `contento alegre` _ i am glad to heart that_ `me alegra oir eso`
 * **acording to** `segun` _acording to cecilia learning english is fun_ 
 * **pleasure** `plaser` _always is pleasure see you_ `siempre es un placer verte`
-* **
-
+* **back** `espalda` _My back hurt_ `me duele la espalda`
+* **headbands** `diademos` _danni gave me headbands_ `danni gave me a headbands`
+* **mistake** `error` _he made a mistake_ `el cometio un error`
+* **protocol** `protocolo` _you must to follow the protocol of the segurity and you have to be carefully_ `debes seguir el protocolo de seguridad y tienes que ser cudiadoso`
+* **entry** `ingreso acceso` _they not allow me the entry_ `ellos no me permiten la entrada`
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
@@ -124,6 +127,7 @@
 * **Clean _Cleaned Cleaned** `Limpiar`
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
 * **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
+* **Give _gave given_** `dar`
 * **Joke _Joked Joked_** `bromear` _He joke, he joked_ `el bromea, el bromeo`
 * **Lift _lifted Lifted** `levantar, elevar` 
 * **need _needed Needed** `Nesecitar` _just need_ `solo nesecito` 
