@@ -78,6 +78,7 @@
 * **mistake** `error` _he made a mistake_ `el cometio un error`
 * **protocol** `protocolo` _you must to follow the protocol of the segurity and you have to be carefully_ `debes seguir el protocolo de seguridad y tienes que ser cudiadoso`
 * **entry** `ingreso acceso` _they not allow me the entry_ `ellos no me permiten la entrada`
+* **schedule** `calendario`_i have to schedule my itinerary_ ``
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
