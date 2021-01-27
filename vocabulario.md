@@ -105,7 +105,7 @@
 * **you now** `ahora, pues muletilla puede ser irritante` _Well, I've told you now._
 * **it appears that** `parece` _it appears that i am boring_ `parece que you soy aburrido_ 
 * **apparently** `aparentemente` _apparently you are tired_ `aparentemente tu estas cansada`
-* **
+* **toe** `dedo del pie` _My big toe hurts_ `Me duele el dedo gordo del pie`
 
 # Falses cognates
 * **susceptible** `propenso`
