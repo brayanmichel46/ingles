@@ -82,6 +82,8 @@
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
+# Modal verbs
+* **can** `poder` _I can do that_ `yo puedo hacer eso`
 # Expressions
 * **small talk** `charla`
 * **is time board to flight** `hora de abordar su vuelo`
@@ -106,6 +108,9 @@
 * **it appears that** `parece` _it appears that i am boring_ `parece que you soy aburrido_ 
 * **apparently** `aparentemente` _apparently you are tired_ `aparentemente tu estas cansada`
 * **toe** `dedo del pie` _My big toe hurts_ `Me duele el dedo gordo del pie`
+* **convict** `convicto` _he is a exconvict or he was a convict_ `el es un exconvicto`
+* **contractions** `Contraciones` _she have contractions_ `ella tendra contraciones`
+
 
 # Falses cognates
 * **susceptible** `propenso`
@@ -121,7 +126,7 @@
 * **Battle _Battled Battle_** `Combatir, luchar` _I battling_ `estoy luchando combatiendo`
 * **Buy _Bought Bought_** `Comprar`
 * **Became _Become Became_** `Empezar` _she became sad_ _I became angry_
-* **Behave _Behaved Behaved_** `Comportar actuar`
+* **Behave _Behaved Behaved_** `Comportar actuar` _You are misbehaving_ `te estas portando mal`
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
 * **Catch _Caught Caught_** `atrapar, capturar`_I caught the error_ 
