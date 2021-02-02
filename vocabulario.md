@@ -79,6 +79,12 @@
 * **protocol** `protocolo` _you must to follow the protocol of the segurity and you have to be carefully_ `debes seguir el protocolo de seguridad y tienes que ser cudiadoso`
 * **entry** `ingreso acceso` _they not allow me the entry_ `ellos no me permiten la entrada`
 * **schedule** `calendario`_i have to schedule my itinerary_ ``
+* **aboaut** `acerca de` _we was talking about music_ `nosotros estabamos hablando hacerca de musica`
+* **guy** `chico` _two german guys_ `Dos chicos alemanes`
+* **live** `en vivo` _saturday night live is a popular humor program in US_
+* **trainer** `entrenador` _my personal trainer is so exacting_
+* **exacting** `exigente`
+* **anyway** `de todas formas`
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
