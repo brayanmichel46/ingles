@@ -1,4 +1,5 @@
 # Words
+* **like** `como` _
 * **flight** `Vuelo`
 * **size** `tamaño`
 * **quantity** `cantidad`
@@ -85,12 +86,37 @@
 * **trainer** `entrenador` _my personal trainer is so exacting_
 * **exacting** `exigente`
 * **anyway** `de todas formas`
+* **silliness** `tonteria` _it is a silliness_ `es una tonteria`
+* **face** `cara` _my face hurt_
+* **hurt** `herida`
+* **pain** `dolor` _i have a pain in my back_ `tengo un dolor en mi espalda`
+* **between** `entre` _do you explain me the reason for the difference between english of spanish_ `me explicas la razon de la diferencia entre ingles y español`
+* **movie** `pelicula` _it is a funny american movie_ `es una pelicula americana divertida`
+* **valley** `valle` _silicon valley_ `valle de Silicon`
+* **job** `trabajo` _i had a job meeting with my boss on(parte del dia) the morning_
+# Grettings
+* **how are you today** `como estas hoy`
+* **very well** `muy bien`
+* **how are you going** `como vas`
+# Body parts
+* **back** `espalda`
+* **knees** `rodillas`
+* **mouth** `boca` _shut mouth_ `cierra la boca`
+* **neck** `cuello` _pain on the neck_ `dolor en el cuello`
+# Posesive Pronouns
+* **my your his her our yours**
+# Comparatives and superlatives
+
+
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
 # Modal verbs
 * **can** `poder` _I can do that_ `yo puedo hacer eso`
 # Expressions
+* **dont worry, it's ok** `no te preocupes, esta bien`
+* **you are breaking my heart** `estas rompiendo mi corazon`
+* **look me in the eyes** `Mirame a los ojos`
 * **small talk** `charla`
 * **is time board to flight** `hora de abordar su vuelo`
 * **good luck** `exito, buena suerte!`
@@ -138,20 +164,25 @@
 * **Catch _Caught Caught_** `atrapar, capturar`_I caught the error_ 
 * **Clean _Cleaned Cleaned** `Limpiar`
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
+* **Fall _Fell Fallen_** `caer` _he fell on his knees_ `el cayo sobre sus rodillas`
 * **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
 * **Give _gave given_** `dar`
+* **hurt _Hurt Hurt_** `lastimar` _i hurt her feelings_
 * **Joke _Joked Joked_** `bromear` _He joke, he joked_ `el bromea, el bromeo`
 * **Lift _lifted Lifted** `levantar, elevar` 
+* **like _Liked Liked_** `gustar` _i like to read books_ `me gustar leer libros`
 * **need _needed Needed** `Nesecitar` _just need_ `solo nesecito` 
 * **Open _Opened Opened_** `Abrir`
 * **Watch _Watched Watched_** `Mirar`
 * **Paint _Painted Paintend_** `Pintar`
+* **Play _Played Played_** `jugar, tocar` _i goint to play for you_ `voy a tocar para ti`
 * **Start _Started Started_** `Comenzar`
 * **Share _Shared Shared_** `Compartir`
 * **Repair _Repaired Repaired_** `Reparar`
 * **Come _Came Come_** `Venir`
 * **Skate _Skated Skated_** `Patinar`
 * **Sing _Sang Sung_** `Cantar`
+* **Shut _Shut Shut_** `Cerrar` _we had shut the door_ 
 * **Surprice Supriced Surprice** `sorprender` _I was surpriced_ `me sorprendi` 
 * **Talk _Talked Talked_** `hablar` _I will talked with she_
 * **Tattoo _Tattooed Tattooed_** `tatuar` _he tattooed me_ `el me tatuo` _i have tattooed a wolf_ `me he tatuado un lobo`
