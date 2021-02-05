@@ -1,5 +1,4 @@
 # Words
-* **like** `como` _
 * **flight** `Vuelo`
 * **size** `tamaño`
 * **quantity** `cantidad`
@@ -107,7 +106,9 @@
 * **my your his her our yours**
 # Comparatives and superlatives
 
-
+# Muletillas
+* **like** `como` 
+* **you know** `sabes`
 # Contraction 
 * **want to - wanna**  `quiero`
 * **going to - gonna** `voy a`
