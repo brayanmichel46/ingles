@@ -1,4 +1,11 @@
 # Words
+* **glaciar** `glaciar`
+* **hike** `caminata`
+* **sunrise** `amanecer`
+* **sunset** `puesta del son`
+* **ocena** `oceano`
+* **hue** `matiz`
+* **unusually** `execpcionalmente`
 * **flight** `Vuelo`
 * **size** `tamaño`
 * **quantity** `cantidad`
@@ -160,6 +167,8 @@
 * **Buy _Bought Bought_** `Comprar`
 * **Became _Become Became_** `Empezar` _she became sad_ _I became angry_
 * **Behave _Behaved Behaved_** `Comportar actuar` _You are misbehaving_ `te estas portando mal`
+* **blaze _Blaze Blazed** `arder, resplandecer`
+* **reflect _reflected reflected_** `reflecjar`
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
 * **Catch _Caught Caught_** `atrapar, capturar`_I caught the error_ 
