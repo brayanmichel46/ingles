@@ -1,5 +1,6 @@
 # Words
-* **neither** `tampoco niguno` _neither bryan or cecilia has money_ ` ni brayn ni cecilia tienen dinero_ 
+* **Squirrel** `he chased a squirrel yesterday` _el persiguio una ardilla ayer`
+* **neither** `tampoco niguno` _neither bryan or cecilia has money_ ` ni brayn ni cecilia tienen dinero`
 * **river** `rio` _i have found many frog in the river_ 
 * **bright** `brillante` _bright green_ `verde fuerte brillante`
 * **forest woods** `bosque, monte`
@@ -185,6 +186,7 @@
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
 * **Catch _Caught Caught_** `atrapar, capturar`_I caught the error_ 
+* **chase _chased chased_** `perseguir o cambiar` 
 * **Clean _Cleaned Cleaned** `Limpiar`
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
 * **Fall _Fell Fallen_** `caer` _he fell on his knees_ `el cayo sobre sus rodillas`
