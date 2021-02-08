@@ -1,4 +1,14 @@
 # Words
+* **neither** `tampoco niguno` _neither bryan or cecilia has money_ ` ni brayn ni cecilia tienen dinero_ 
+* **river** `rio` _i have found many frog in the river_ 
+* **bright** `brillante` _bright green_ `verde fuerte brillante`
+* **forest woods** `bosque, monte`
+* **located** `ubicado` _it is a beautifull day my house is located in the forest_ ` es un hermoso dia mi casa esta ubcada en el bosque`
+* **mud** `barro` _there are many mud over here_ 
+* **hike** `caminata` _take hike_ `hacer una caminata`
+* **stroll** `paseo` _take stroll_ `tomar un paseo`
+* **almost** `Casi` _Almost in summer_ `casi en verano`
+* **summer** `verano`
 * **glaciar** `glaciar`
 * **hike** `caminata`
 * **sunrise** `amanecer`
@@ -80,7 +90,7 @@
 * **glad** `contento alegre` _ i am glad to heart that_ `me alegra oir eso`
 * **acording to** `segun` _acording to cecilia learning english is fun_ 
 * **pleasure** `plaser` _always is pleasure see you_ `siempre es un placer verte`
-* **back** `espalda` _My back hurt_ `me duele la espalda`
+* **back** either way`espalda` _My back hurt_ `me duele la espalda`
 * **headbands** `diademos` _danni gave me headbands_ `danni gave me a headbands`
 * **mistake** `error` _he made a mistake_ `el cometio un error`
 * **protocol** `protocolo` _you must to follow the protocol of the segurity and you have to be carefully_ `debes seguir el protocolo de seguridad y tienes que ser cudiadoso`
@@ -113,7 +123,7 @@
 * **my your his her our yours**
 # Comparatives and superlatives
 
-# Muletillas
+# Fillers
 * **like** `como` 
 * **you know** `sabes`
 # Contraction 
@@ -122,6 +132,9 @@
 # Modal verbs
 * **can** `poder` _I can do that_ `yo puedo hacer eso`
 # Expressions
+* **either way**  `de cualquier manera` 
+* **do you care** `te import?` _do you care that we will go shopping_
+* **do you mind** ` te importa?` will you mind you will to go shopping with me_
 * **dont worry, it's ok** `no te preocupes, esta bien`
 * **you are breaking my heart** `estas rompiendo mi corazon`
 * **look me in the eyes** `Mirame a los ojos`
@@ -175,10 +188,12 @@
 * **Clean _Cleaned Cleaned** `Limpiar`
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
 * **Fall _Fell Fallen_** `caer` _he fell on his knees_ `el cayo sobre sus rodillas`
+* **find _Found Found_** `encontrar` 
 * **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
 * **Give _gave given_** `dar`
 * **hurt _Hurt Hurt_** `lastimar` _i hurt her feelings_
 * **Joke _Joked Joked_** `bromear` _He joke, he joked_ `el bromea, el bromeo`
+* **keep _kept kept_** `mantener seguir` _keep working_ `seguir trabajando`
 * **Lift _lifted Lifted** `levantar, elevar` 
 * **like _Liked Liked_** `gustar` _i like to read books_ `me gustar leer libros`
 * **need _needed Needed** `Nesecitar` _just need_ `solo nesecito` 
