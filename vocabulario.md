@@ -1,4 +1,11 @@
+
 # Words
+
+* **to back** `regresar volver` _to back to my house_ `volver a mi casa`
+* **afraid** `temeroso miedoso` _to be afraid_ `tener miedo` 
+* **nosy** `ruidoso`
+* **duck** `pato`
+* **cisne** `swan`
 * **Squirrel** `he chased a squirrel yesterday` _el persiguio una ardilla ayer`
 * **neither** `tampoco niguno` _neither bryan or cecilia has money_ ` ni brayn ni cecilia tienen dinero`
 * **river** `rio` _i have found many frog in the river_ 
@@ -115,6 +122,8 @@
 * **how are you today** `como estas hoy`
 * **very well** `muy bien`
 * **how are you going** `como vas`
+* **see you next week** `te veo la proxima semana`
+* **hello how are you** `hola como estas`
 # Body parts
 * **back** `espalda`
 * **knees** `rodillas`
@@ -213,6 +222,7 @@
 * **Surprice Supriced Surprice** `sorprender` _I was surpriced_ `me sorprendi` 
 * **Talk _Talked Talked_** `hablar` _I will talked with she_
 * **Tattoo _Tattooed Tattooed_** `tatuar` _he tattooed me_ `el me tatuo` _i have tattooed a wolf_ `me he tatuado un lobo`
+* **think _thought thought** `pensar` _i think a great idea_ `pienso que es una gran idea`
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
 * **Rent _Rented Rented_** `alquilado` _chairs are rented_ `se alquilan sillas`
