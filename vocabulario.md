@@ -1,6 +1,7 @@
 
 # Words
-
+* **impressive** `impresionante` _your english is impressive_ `tu ingles es imprecionante`
+* **bit** `un poco` _i am a bit tired_ `estoy un poco cansado`
 * **to back** `regresar volver` _to back to my house_ `volver a mi casa`
 * **afraid** `temeroso miedoso` _to be afraid_ `tener miedo` 
 * **nosy** `ruidoso`
@@ -123,6 +124,7 @@
 * **very well** `muy bien`
 * **how are you going** `como vas`
 * **see you next week** `te veo la proxima semana`
+* **see you next time** `hasta la proxima`
 * **hello how are you** `hola como estas`
 # Body parts
 * **back** `espalda`
@@ -142,6 +144,7 @@
 # Modal verbs
 * **can** `poder` _I can do that_ `yo puedo hacer eso`
 # Expressions
+* **I think a great idea** `creo que es una gran idea`
 * **either way**  `de cualquier manera` 
 * **do you care** `te import?` _do you care that we will go shopping_
 * **do you mind** ` te importa?` will you mind you will to go shopping with me_
@@ -189,6 +192,7 @@
 * **Battle _Battled Battle_** `Combatir, luchar` _I battling_ `estoy luchando combatiendo`
 * **Buy _Bought Bought_** `Comprar`
 * **Became _Become Became_** `Empezar` _she became sad_ _I became angry_
+* **Begin _Began Begun_** `iniciar` _i want to begin session_
 * **Behave _Behaved Behaved_** `Comportar actuar` _You are misbehaving_ `te estas portando mal`
 * **blaze _Blaze Blazed** `arder, resplandecer`
 * **reflect _reflected reflected_** `reflecjar`
@@ -203,6 +207,7 @@
 * **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
 * **Give _gave given_** `dar`
 * **hurt _Hurt Hurt_** `lastimar` _i hurt her feelings_
+* **have _had had_** `tener` _we have create the group in facebook_
 * **Joke _Joked Joked_** `bromear` _He joke, he joked_ `el bromea, el bromeo`
 * **keep _kept kept_** `mantener seguir` _keep working_ `seguir trabajando`
 * **Lift _lifted Lifted** `levantar, elevar` 
