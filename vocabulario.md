@@ -1,5 +1,8 @@
 
 # Words
+* **confusing** `eso es confuso` _thats is confusing_ `eso es confuso`
+* **exciting** `emocionante` _i am exciting_ `yo estoy emocionado`
+* **stranger** `extraño`
 * **impressive** `impresionante` _your english is impressive_ `tu ingles es imprecionante`
 * **bit** `un poco` _i am a bit tired_ `estoy un poco cansado`
 * **to back** `regresar volver` _to back to my house_ `volver a mi casa`
@@ -144,6 +147,7 @@
 # Modal verbs
 * **can** `poder` _I can do that_ `yo puedo hacer eso`
 # Expressions
+* **of course** `porsupuesto`
 * **I think a great idea** `creo que es una gran idea`
 * **either way**  `de cualquier manera` 
 * **do you care** `te import?` _do you care that we will go shopping_
@@ -201,6 +205,7 @@
 * **Catch _Caught Caught_** `atrapar, capturar`_I caught the error_ 
 * **chase _chased chased_** `perseguir o cambiar` 
 * **Clean _Cleaned Cleaned** `Limpiar`
+* **Cry _cried cried_** `llorar` _she is crying_ `ella esta llorando`
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
 * **Fall _Fell Fallen_** `caer` _he fell on his knees_ `el cayo sobre sus rodillas`
 * **find _Found Found_** `encontrar` 
@@ -219,9 +224,11 @@
 * **Play _Played Played_** `jugar, tocar` _i goint to play for you_ `voy a tocar para ti`
 * **Start _Started Started_** `Comenzar`
 * **Share _Shared Shared_** `Compartir`
+* **renind _ Reminded reminded_** `recordar` _to remind me_ `para recordarme`
 * **Repair _Repaired Repaired_** `Reparar`
 * **Come _Came Come_** `Venir`
 * **Skate _Skated Skated_** `Patinar`
+* **See _saw seen_** `ver` _i saw a good movie last night_ `vi una buena pelicula anoche`
 * **Sing _Sang Sung_** `Cantar`
 * **Shut _Shut Shut_** `Cerrar` _we had shut the door_ 
 * **Surprice Supriced Surprice** `sorprender` _I was surpriced_ `me sorprendi` 
@@ -234,5 +241,5 @@
 * **Ride _Rided Rided_** `Montar`
 * **Ring _Rang Rung_** `sonar`_the air conditioner ring very hard in the room_
 * **Uncourage _Uncouraged Uncouraged** `animar, fomentar` _I uncouraged to my mother_
-
+* **Watch _watched watched_** `mirar` _i watch tv_ `miro la tele` _my brother is watching television_ 
 
