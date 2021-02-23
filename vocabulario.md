@@ -1,4 +1,12 @@
 # Words 
+* **garden** `jardin`
+* **steady** `firme estable` 
+* **spirit** `espiritu` _
+* **never** `nunca` _i will never to get to cordoba_
+* **moon** `lunar`_large moon_ `luna grande` 
+* **longing** `nostalgia añoranza`
+* **desire** `deseo`
+* **sizzle** `chisporrotear`
 * **hungry** `hambre` _i am hungry_ `tengo hambre`
 * **favorite** `favorito` _what is your favorite food_ `cual es tu comida favorita`
 * **fireworks** `fuegos artificiales` _
@@ -166,6 +174,7 @@
 * **knees** `rodillas`
 * **mouth** `boca` _shut mouth_ `cierra la boca`
 * **neck** `cuello` _pain on the neck_ `dolor en el cuello`
+* **ear** `oido` _its excellent for the ear, but is dificult understand_ `es excelente para el oido pero es dificil de entender`
 # Posesive Pronouns
 * **my your his her our yours**
 # Comparatives and superlatives
@@ -282,12 +291,15 @@
 * **think _thought thought** `pensar` _i think a great idea_ `pienso que es una gran idea`
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
+* **read _read read_** `leer` _i like to read some poems_
 * **Remember _remembered rememberd_** `recordar` _do you remember your promise_
 * **Rent _Rented Rented_** `alquilado` _chairs are rented_ `se alquilan sillas`
 * **Ride _Rided Rided_** `Montar`
 * **Ring _Rang Rung_** `sonar`_the air conditioner ring very hard in the room_
 * **Uncourage _Uncouraged Uncouraged** `animar, fomentar` _I uncouraged to my mother_
+* **walk _walked walked_** `caminar` _you must walk carefully_
 * **Watch _watched watched_** `mirar` _i watch tv_ `miro la tele` _my brother is watching television_ 
+* **witness _witnessed witnessed** `presenciar`
 
 ## conversations
 ### in restaurant 1
@@ -301,8 +313,14 @@
 - are you ready to order?
 - can you tell me the vegetarian dishes 
 - ok .....
-- i will like beef dish
-types of meat: *beef* `carne de ternera` **lamb** `cordero` **chiken** `pollo` **fish** `pescado` **shrimp**  `camarones`
+- i will like beef dish.
+- well, do you need anything else
+- no, thanks
+- enjoy your dinner.
+- do you like dessert
+- i am full. thanks 
 
-types of cutlery: **fork** `tenedor`
+types of meat: *beef* `carne de ternera` **lamb** `cordero` **chiken** `pollo` **fish** `pescado` **shrimp**  `camarones`
+types of cutlery: **fork** `tenedor` **spoon** `cuchara` **knife** `cuchillo` **pan** `sarten` **plate** `plato` **dish** `plato`
+Vocabulary: **delight** `deleite` **dessert** `postre`
 
