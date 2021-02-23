@@ -22,5 +22,8 @@ Son intercambiable cuando se refieren a **unicamente simplemente**  i only her f
 * **uni** _university_
 * **vech** _vegetable_
 * **vet** _veterinarien_??
-* 
 
+# USEFUL EXPRECION
+* **where are you headed** `donde te diriges` _i headed my home_.
+* **to know something like the back of my hand** `conocer algo como la palma de la mano` _he knows his town like the back of his hand_
+* **to give somebody hand** `echar una mano` _can you please give me a hand_
