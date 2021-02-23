@@ -263,6 +263,7 @@
 * **Give _gave given_** `dar`
 * **hurt _Hurt Hurt_** `lastimar` _i hurt her feelings_
 * **have _had had_** `tener` _we have create the group in facebook_
+* **hinder _hendered hindered_** `dificultar obstaculizar` 
 * **Joke _Joked Joked_** `bromear` _He joke, he joked_ `el bromea, el bromeo`
 * **keep _kept kept_** `mantener seguir` _keep working_ `seguir trabajando`
 * **Lift _lifted Lifted** `levantar, elevar` 
