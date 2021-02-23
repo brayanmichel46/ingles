@@ -27,3 +27,10 @@ Son intercambiable cuando se refieren a **unicamente simplemente**  i only her f
 * **where are you headed** `donde te diriges` _i headed my home_.
 * **to know something like the back of my hand** `conocer algo como la palma de la mano` _he knows his town like the back of his hand_
 * **to give somebody hand** `echar una mano` _can you please give me a hand_
+
+# STRANGER SOINDS
+there are sounds stranger in english for example:
+**t** some teacher offer shortcut "atajos" 
+* **tree** `ziir`
+* **than** `zaam`
+have it isnt a problen you mustn't embarrass you of your maternal language.
