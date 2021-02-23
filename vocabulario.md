@@ -1,5 +1,34 @@
-
-# Words
+# Words 
+* **hungry** `hambre` _i am hungry_ `tengo hambre`
+* **favorite** `favorito` _what is your favorite food_ `cual es tu comida favorita`
+* **fireworks** `fuegos artificiales` _
+* **avantage** `ventaja` _to take avantage_ `tomar ventaja, aprovechar`_she took vanntage of her free time to call her mother_ `ella aprovecho su tiempo libre para llamar a su madre` _we going to take avantage of this space for making a table_
+* **almost** `casi` _i almost died of hungry_ `casi muero de hambre`
+* **meeting** `reunion` _the meeting goin to last one hour_
+* **trip** `viaje` _the trip lasted 7 days_ `el viaje duro siete dias
+* **taxes** `you have to pay taxes_ 
+* **rich or wealthy** `rico` _do you can say wealthy_ 
+* **poor** `pobre`
+* **old** `mayor` **older** `mas mayor`
+* **young** `joven`
+* **sure** `por supuesto o seguro` _i am not sure, i dont remmenber_ `no estoy seguro yo no recuerdo`
+* **promise** `promesa` _to make promise_ `hacer una promesa`
+* **sunbathe** `tomar el sol`
+* **noisy** `ruidoso`
+* **realize** `darse cuenta` _she realized that her friend go not speak spanish well_ `ella se dio cuenta que su amigo no habla español bien` 
+* **turn down** `bajar` _can you please turn down your radio, ssorry i didn't realize it was so noisy_
+* **located** `situdado`
+* **nice** `bonita bonito` _nice place to be, is located in the state new york_ `lindo lugar para estar`
+* **picnic basket** `cesta de picnic`
+* **towel** `toalla`
+* **umbrella** `sombrilla` _the beach umbrella is protection in summer or winter_ 
+* **near** `cerca`
+* **far** `lejos`
+* **parking** `estacionamiento` _there are parking?. yes. cecilia do you have to pay the parking?. it is ten dolars please _ 
+* **crowded** `concurrido` _this bar is the most crowded of the city_
+* **beach** `playa` _the beach is very large is very crowded_ `la playa es muy grande, esta muy concurrida` 
+* **state** `estado`
+* **located** `localizado` _is located in the state the new york_ `esta localizado y ubicado en el estado de new york`
 * **confusing** `eso es confuso` _thats is confusing_ `eso es confuso`
 * **exciting** `emocionante` _i am exciting_ `yo estoy emocionado`
 * **stranger** `extraño`
@@ -35,7 +64,7 @@
 * **written** `escrito`
 * **aloud** `en voz alta`
 * **there is** `hay -> countable`
-* **there are** `hay -> uncountable`
+* **there are** `hay -> uncountable` _in america, canada and england thera are a lot of indian restaurant_ 
 * **fancy** `elaborado elegante` _the party was very facy_
 * **bored** `aburrido o aburrida` _he is bored_ `El esta aburrido`
 * **boring** `soy aburrido` _I am boring_ `soy aburrido`
@@ -129,6 +158,9 @@
 * **see you next week** `te veo la proxima semana`
 * **see you next time** `hasta la proxima`
 * **hello how are you** `hola como estas`
+* **hi how has gone** `hola como te ha ido`
+* **how are you day** `como esta tu dia`
+* **its always a pleasure** `siempre es un placer`
 # Body parts
 * **back** `espalda`
 * **knees** `rodillas`
@@ -146,7 +178,12 @@
 * **going to - gonna** `voy a`
 # Modal verbs
 * **can** `poder` _I can do that_ `yo puedo hacer eso`
-# Expressions
+# Expressions 
+* **today is the day** `hoy es el dia` _today is the day to paym my promise_ 
+* **i didnt mean to be** `no quize serlo`
+* **you are right** `tienes razon` _you are right i didnt mean to be noicy `tienes razon, yo no tenia la intencion de ser ruidoso_ 
+* **do you mind** `te importa?` _do you main turn down your radio_ `te importaria bajar la radio`
+* **dont worry** `no te preocupes` 
 * **of course** `porsupuesto`
 * **I think a great idea** `creo que es una gran idea`
 * **either way**  `de cualquier manera` 
@@ -203,9 +240,13 @@
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
 * **Catch _Caught Caught_** `atrapar, capturar`_I caught the error_ 
+* **Carry _carried carried_** `transportar` _you are carrying_ `estas llevando`
 * **chase _chased chased_** `perseguir o cambiar` 
 * **Clean _Cleaned Cleaned** `Limpiar`
 * **Cry _cried cried_** `llorar` _she is crying_ `ella esta llorando`
+* **Die _died died_** `morir` _she died the last year_ `ella murio el año pasado`
+* **drive _drove driven** `conducir` _you are driving to the beach in car_ `vas a la playa en coche`
+* **eat _ate eaten_** `comer` _today we goin to eat indian food_ 
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
 * **Fall _Fell Fallen_** `caer` _he fell on his knees_ `el cayo sobre sus rodillas`
 * **find _Found Found_** `encontrar` 
@@ -216,11 +257,13 @@
 * **Joke _Joked Joked_** `bromear` _He joke, he joked_ `el bromea, el bromeo`
 * **keep _kept kept_** `mantener seguir` _keep working_ `seguir trabajando`
 * **Lift _lifted Lifted** `levantar, elevar` 
+* **last _lasted lasted_** `durar` _the movie lasted two hours_ _the trip lasted 7 days_
 * **like _Liked Liked_** `gustar` _i like to read books_ `me gustar leer libros`
 * **need _needed Needed** `Nesecitar` _just need_ `solo nesecito` 
 * **Open _Opened Opened_** `Abrir`
-* **Watch _Watched Watched_** `Mirar`
 * **Paint _Painted Paintend_** `Pintar`
+* **Park _parked parked_** `parquear` _did you park the car near of the your job_
+* **Pay _paid paid_** `pagar`
 * **Play _Played Played_** `jugar, tocar` _i goint to play for you_ `voy a tocar para ti`
 * **Start _Started Started_** `Comenzar`
 * **Share _Shared Shared_** `Compartir`
@@ -232,14 +275,21 @@
 * **Sing _Sang Sung_** `Cantar`
 * **Shut _Shut Shut_** `Cerrar` _we had shut the door_ 
 * **Surprice Supriced Surprice** `sorprender` _I was surpriced_ `me sorprendi` 
+* **take _took taken_** `tomar` _she took avantage of her free time to call her mother_ 
 * **Talk _Talked Talked_** `hablar` _I will talked with she_
+* **tan _taned taned_** `broncear` _sun tannig_ `bronceado` _my skin is very tan_ `mi piel esta muy bronceada`
 * **Tattoo _Tattooed Tattooed_** `tatuar` _he tattooed me_ `el me tatuo` _i have tattooed a wolf_ `me he tatuado un lobo`
 * **think _thought thought** `pensar` _i think a great idea_ `pienso que es una gran idea`
 * **Travel _Traveled Traveled_** `Viajar`
 * **Throw _Threw Thrown_** `Lanzar`
+* **Remember _remembered rememberd_** `recordar` _do you remember your promise_
 * **Rent _Rented Rented_** `alquilado` _chairs are rented_ `se alquilan sillas`
 * **Ride _Rided Rided_** `Montar`
 * **Ring _Rang Rung_** `sonar`_the air conditioner ring very hard in the room_
 * **Uncourage _Uncouraged Uncouraged** `animar, fomentar` _I uncouraged to my mother_
 * **Watch _watched watched_** `mirar` _i watch tv_ `miro la tele` _my brother is watching television_ 
+
+## conversations
+### in restaurant 1
+- hello
 
