@@ -292,4 +292,17 @@
 ## conversations
 ### in restaurant 1
 - hello
+- is there a table?
+- yes, there is a table in the back
+- ok. thanks
+- can i carry something to drink
+- i have to try vegetarian plate
+- waitres!!
+- are you ready to order?
+- can you tell me the vegetarian dishes 
+- ok .....
+- i will like beef dish
+types of meat: *beef* `carne de ternera` **lamb** `cordero` **chiken** `pollo` **fish** `pescado` **shrimp**  `camarones`
+
+types of cutlery: **fork** `tenedor`
 
