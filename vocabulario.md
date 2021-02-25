@@ -1,4 +1,6 @@
 # Words 
+* **appreciate** `aprecio agradezco` _appreciate you help_ 
+* **fortunalety** `afortunadamente` _fortunality we have a our friend cecilia in mexico_
 * **garden** `jardin`
 * **steady** `firme estable` 
 * **spirit** `espiritu` _
@@ -169,12 +171,16 @@
 * **hi how has gone** `hola como te ha ido`
 * **how are you day** `como esta tu dia`
 * **its always a pleasure** `siempre es un placer`
+* **hi, i am doing great thanks** `estoy muy bien`
+* **its always pleasure** `siempre es un place`
 # Body parts
 * **back** `espalda`
 * **knees** `rodillas`
 * **mouth** `boca` _shut mouth_ `cierra la boca`
 * **neck** `cuello` _pain on the neck_ `dolor en el cuello`
 * **ear** `oido` _its excellent for the ear, but is dificult understand_ `es excelente para el oido pero es dificil de entender`
+* **tongue** `lengua`
+* **teeth** `dientes`
 # Posesive Pronouns
 * **my your his her our yours**
 # Comparatives and superlatives
@@ -188,6 +194,7 @@
 # Modal verbs
 * **can** `poder` _I can do that_ `yo puedo hacer eso`
 # Expressions 
+* **this is the best thing** `es la mejor cosa` 
 * **today is the day** `hoy es el dia` _today is the day to paym my promise_ 
 * **i didnt mean to be** `no quize serlo`
 * **you are right** `tienes razon` _you are right i didnt mean to be noicy `tienes razon, yo no tenia la intencion de ser ruidoso_ 
