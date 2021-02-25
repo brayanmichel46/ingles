@@ -52,4 +52,9 @@ the sound is shoter than e
 example:
 * **kiss vs keys** `kis, kiiis`
 
+## PHRASAL VERBS
+* **backup** `marcha atras, respaldar` :you beeter make a backup_
+* **get over it** `sobreponerte a algo` _come on men get over it  she cant get over michael_
+* **you look after** `i sorry can you look after the kids` _come on boy you should you look after your thing_  
+
 
