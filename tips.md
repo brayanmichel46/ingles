@@ -30,7 +30,26 @@ Son intercambiable cuando se refieren a **unicamente simplemente**  i only her f
 
 # STRANGER SOINDS
 there are sounds stranger in english for example:
-**t** some teacher offer shortcut "atajos" 
+## letter t some teacher offer shortcut "atajos" 
 * **tree** `ziir`
 * **than** `zaam`
+* **mout** `mouzz` -> put your tongue between yours teeth
 have it isnt a problen you mustn't embarrass you of your maternal language.
+## letter y the y sound softer than in spanish
+example:
+* **young** `ioung`
+* **yesterday** `iesterday`
+## letter v 
+put your teeths on your lower lip
+* **vote** `vote`
+* **vacation** `ffecaichion` -> _is very inportan your invite me to your party
+## letter d 
+example:
+* **food vs foot** 
+* **threat vs thread** `hilo, amenaza`
+## letter i
+the sound is shoter than e
+example:
+* **kiss vs keys** `kis, kiiis`
+
+
