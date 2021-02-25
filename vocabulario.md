@@ -1,4 +1,13 @@
 # Words 
+* **robery** `robo`
+* **automatic teller machine** `cajero automatico acronimo ATM`
+* **rules** `reglas` _take my advice and follow on the rule_
+* **dangerous** `peligroso` _if you take my suggestion it is can be dangerous_ ` is no sigues mi consejo estoy puede ser peligroso`
+* **suggestion** `sugerencia` _she took my suggestion_
+* **advice** `consejo` _follow my advice_ 
+* **amazing** `asombroso`
+* **undertaker** `aterrador or director de funeraria`
+* **procedure** `what is the procedure` _cual es el procedimiento_ 
 * **appreciate** `aprecio agradezco` _appreciate you help_ 
 * **fortunalety** `afortunadamente` _fortunality we have a our friend cecilia in mexico_
 * **garden** `jardin`
@@ -194,6 +203,7 @@
 # Modal verbs
 * **can** `poder` _I can do that_ `yo puedo hacer eso`
 # Expressions 
+* **i will love** `me encantaria` _i will love to go colombia_ `me encantaria ir a colombia`
 * **this is the best thing** `es la mejor cosa` 
 * **today is the day** `hoy es el dia` _today is the day to paym my promise_ 
 * **i didnt mean to be** `no quize serlo`
@@ -243,7 +253,8 @@
 * **carpet** `alfombra`
 * **exit** `salida`
 * **compromise** `llegar a un arreglo`
-
+## Verbal tenses
+* **i have _veb in past perfect_** `pasado perfecto` _i have never been in colombia_
 ## Verbs
 * **Allow _Allowed Allowed_** `Permitir`
 * **Battle _Battled Battle_** `Combatir, luchar` _I battling_ `estoy luchando combatiendo`
@@ -252,6 +263,7 @@
 * **Begin _Began Begun_** `iniciar` _i want to begin session_
 * **Behave _Behaved Behaved_** `Comportar actuar` _You are misbehaving_ `te estas portando mal`
 * **blaze _Blaze Blazed** `arder, resplandecer`
+* **break _broke brokeṇ_** `romper` _dont break the rules_ `no rompas las regals`
 * **reflect _reflected reflected_** `reflecjar`
 * **Bring _Brought Brought_** `Traer`
 * **Break _Broke Broken_** `romper`
@@ -268,6 +280,7 @@
 * **find _Found Found_** `encontrar` 
 * **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
 * **Give _gave given_** `dar`
+* **kidnap _kidnaped kidnaped_** `secuestrar`
 * **hurt _Hurt Hurt_** `lastimar` _i hurt her feelings_
 * **have _had had_** `tener` _we have create the group in facebook_
 * **hinder _hendered hindered_** `dificultar obstaculizar` 
@@ -297,15 +310,17 @@
 * **tan _taned taned_** `broncear` _sun tannig_ `bronceado` _my skin is very tan_ `mi piel esta muy bronceada`
 * **Tattoo _Tattooed Tattooed_** `tatuar` _he tattooed me_ `el me tatuo` _i have tattooed a wolf_ `me he tatuado un lobo`
 * **think _thought thought** `pensar` _i think a great idea_ `pienso que es una gran idea`
-* **Travel _Traveled Traveled_** `Viajar`
+* **Travel _Traveled Traveled_** `Viajar` _do you like to travel, yes i love to travel_ `te gusta viajar`
 * **Throw _Threw Thrown_** `Lanzar`
 * **read _read read_** `leer` _i like to read some poems_
 * **Remember _remembered rememberd_** `recordar` _do you remember your promise_
 * **Rent _Rented Rented_** `alquilado` _chairs are rented_ `se alquilan sillas`
 * **Ride _Rided Rided_** `Montar`
 * **Ring _Rang Rung_** `sonar`_the air conditioner ring very hard in the room_
+* **suggest _suggested suggested** `sugerir` 
 * **Uncourage _Uncouraged Uncouraged** `animar, fomentar` _I uncouraged to my mother_
 * **walk _walked walked_** `caminar` _you must walk carefully_
+* **want _wanted wanted** `querer desear nesecitar` _this is a program for people who want to learn english_ 
 * **Watch _watched watched_** `mirar` _i watch tv_ `miro la tele` _my brother is watching television_ 
 * **witness _witnessed witnessed** `presenciar`
 
