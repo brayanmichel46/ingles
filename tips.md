@@ -57,4 +57,9 @@ example:
 * **get over it** `sobreponerte a algo` _come on men get over it  she cant get over michael_
 * **you look after** `i sorry can you look after the kids` _come on boy you should you look after your thing_  
 
+## BEAR BEARD BIRD BEER
+* **BEAR** `Oso ber` -> palabrs modelo _air_ _hair_ _the bear is there sitting in a chair_
+* **BIRD** `Pagajaro berd`
+* **BEER** `Cerveza bir` 
+* **BEARD** `Barba bird` come on neder and shave your bird 
 
