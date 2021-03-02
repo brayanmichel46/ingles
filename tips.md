@@ -63,3 +63,18 @@ example:
 * **BEER** `Cerveza bir` 
 * **BEARD** `Barba bird` come on neder and shave your bird 
 
+## 
+Pedir un cafe
+* **expresso** `expresseein
+* **black coffe** `cafe negro`
+* **latte or white coffe** `cafe con leche` _i will have a latte_
+* **espresso with a dash of milk** `cafe cortado`
+* **decaf cappuchino** `descafeinado`}
+Example:
+* i get a latte coffe
+* i have a medium capucchino with soya milk  please.
+* i have a large ice americano please.
+Conversation:
+    “Hi there!” “Good morning!” “What can I get you today sir?” “I’ll have a latte with low fat milk please.” “What size is that sir?” “Medium please.” “Is that for here or to take away?” “To take away please.” “Can I get you anything else?” “I’ll have a chocolate croissant as well, please.” “Ok, so that comes to £5 please. Card or cash?” “I’ll pay in cash.” “Ok, there you go sir, and here’s your change. Enjoy your breakfast.” “Thanks. Bye!”
+
+
