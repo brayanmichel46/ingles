@@ -77,4 +77,7 @@ Example:
 Conversation:
     “Hi there!” “Good morning!” “What can I get you today sir?” “I’ll have a latte with low fat milk please.” “What size is that sir?” “Medium please.” “Is that for here or to take away?” “To take away please.” “Can I get you anything else?” “I’ll have a chocolate croissant as well, please.” “Ok, so that comes to £5 please. Card or cash?” “I’ll pay in cash.” “Ok, there you go sir, and here’s your change. Enjoy your breakfast.” “Thanks. Bye!”
 
-
+## RULE IN OUT
+**Pronunciación:** `descartar` _rule in out_ _dont rule out_ _are you rule in out_ _rule him out_ _i rule did out_
+**Bonus: get rid of** `deshacerse de` _why dont you get rid of that_ _come, get rid him of_ _i have never gotten rid of that_
+**Bonus 2: throw away** `tirar a la basura para siempre` _stop play with that or else i throw away, you hear me_ 
