@@ -83,5 +83,8 @@ Conversation:
 **Bonus 2: throw away** `tirar a la basura para siempre` _stop play with that or else i throw away, you hear me_ 
 
 ## ANY DIFFERENCES BETWEEN BRITHIS AND AMERICAN ENGLISH
-
+## BATTLE
+* **BATTLE** `batalla beardl` _we are not going to lost this battle_
+* **BOTTLE** `botella bardl` _can you pleas pass the bottle_
+* **BEETTLE** `escarabajo birdl` _ wa dont step on the beettle
 
