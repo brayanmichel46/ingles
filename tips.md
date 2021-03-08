@@ -88,3 +88,11 @@ Conversation:
 * **BOTTLE** `botella bardl` _can you pleas pass the bottle_
 * **BEETTLE** `escarabajo birdl` _ wa dont step on the beettle
 
+## TIPYCAL ERROR
+* **you and i** `tu y yo` Se usa cuando somos sujetos de la oración _you and i went toggeter school
+* **you and me** `tu y yo` cuando no somos sujetos cuando somos objetos _She went school with you and me_ _they were talking to you and me_ 
+* **tell me** `decirme contarme` se usa cuando se dice a alguien o mencionamos al receptor _she told them_ `ella les dijo` **nota:** no se usa say.
+* **say** `decir` _you say the magic word_ cuando no se menciona el receptor existen algunas exepciones como **tell a true** **tell a story** **tell a joke**
+* **he is as tall as me** cuando es tanto como **you are taller than me** cuando es una mas que otro.
+
+
