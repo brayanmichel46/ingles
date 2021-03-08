@@ -95,4 +95,10 @@ Conversation:
 * **say** `decir` _you say the magic word_ cuando no se menciona el receptor existen algunas exepciones como **tell a true** **tell a story** **tell a joke**
 * **he is as tall as me** cuando es tanto como **you are taller than me** cuando es una mas que otro.
 
+## WERE
+* **WERE** `estuvo wr`
+* **WAR** `wor` the war lasted 5 year_ `la guerra duro 5 años` _we are at war_ `estamos en guerra`
+* **WORD** `wored` detras de la lengua 
+* **WORLD** `worled`
+
 
