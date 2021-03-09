@@ -1,4 +1,5 @@
 # Words 
+* **jewelry** `joya`
 * **robery** `robo`
 * **automatic teller machine** `cajero automatico acronimo ATM`
 * **rules** `reglas` _take my advice and follow on the rule_
