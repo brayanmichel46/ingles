@@ -101,4 +101,9 @@ Conversation:
 * **WORD** `wored` detras de la lengua 
 * **WORLD** `worled`
 
+## FALSE FRIENDS
+* **assist** `atender ayudar a alguien` the doctor assit me. no **attend** `asistir a un lugar` 200 people attended the party
+* **argue** `discutir enfadado` _they are not friends now, because they argued yesterday_ **discuss** `hablar debatir`
+* **library** `biblioteca` _i borrowed a book from the library_ _i go to the library everyday_ **book shop or store** _have you seen the new library_ 
+
 
