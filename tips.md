@@ -106,4 +106,7 @@ Conversation:
 * **argue** `discutir enfadado` _they are not friends now, because they argued yesterday_ **discuss** `hablar debatir`
 * **library** `biblioteca` _i borrowed a book from the library_ _i go to the library everyday_ **book shop or store** _have you seen the new library_ 
 
-
+## IN ON AT
+* **in**  in the _my granmother has lived in briston for 22 year_ 
+* **on** on a bus _my sister live on the second floor_ _i left my book on the plain_ 
+* **at** i live at 22 london r, _i stay in the office_ _they find the car at the bootom of the lago_ _see you at the beach_ _we are to meet at the brother's house_ 
