@@ -116,8 +116,8 @@ Conversation:
 
 ## CONTABLE UNCONTABLE
 **uncontable:** incontables
-Example:
-*_i had a **slice tosh** and a **cup the coffee** _ _my best friend how give me **terribles advice**_ _i am goin to give you **two advice**_ _do you like  the last piece popcorn?_ _where is you furniture_ _i found this two pieces of furniture_ _its a pleasure make to do bussnies with you_ _how many beers_ _how many chocolattinas_ _he has very few friends in barcelona_  
+Example:  
+_1) i had a **slice tosh** and a **cup the coffee**_ _2) my best friend how give me **terribles advice**_ _3) i am goin to give you **two advice**_ _4) do you like  the last piece popcorn?_ _5) where is you furniture_ _6) i found this two pieces of furniture_ _7) its a pleasure make to do bussnies with you_ _8) how many beers_ _how many chocolattinas_ _9) he has very few friends in barcelona_  
 
 **contable** `contables`
 Example:
