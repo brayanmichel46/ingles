@@ -110,3 +110,6 @@ Conversation:
 * **in**  in the _my granmother has lived in briston for 22 year_ 
 * **on** on a bus _my sister live on the second floor_ _i left my book on the plain_ 
 * **at** i live at 22 london r, _i stay in the office_ _they find the car at the bootom of the lago_ _see you at the beach_ _we are to meet at the brother's house_ 
+
+## TO BE SUPPOSED TO
+* **you are supposed to** `se supone que tienes que` _1. you are sopposed to do_ _2. you are not supposed to be here_ _what am i supposed to do with you_ _3 you were supposed to lefth at 5_ _4. what was i supposed to do_  _they weren't supposed to know_ _5. it was supposed to be a surprice_
