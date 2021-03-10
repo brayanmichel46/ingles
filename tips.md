@@ -113,3 +113,12 @@ Conversation:
 
 ## TO BE SUPPOSED TO
 * **you are supposed to** `se supone que tienes que` _1. you are sopposed to do_ _2. you are not supposed to be here_ _what am i supposed to do with you_ _3 you were supposed to lefth at 5_ _4. what was i supposed to do_  _they weren't supposed to know_ _5. it was supposed to be a surprice_
+
+## CONTABLE UNCONTABLE
+**uncontable:** incontables
+Example:
+*_i had a **slice tosh** and a **cup the coffee** _ _my best friend how give me **terribles advice**_ _i am goin to give you **two advice**_ _do you like  the last piece popcorn?_ _where is you furniture_ _i found this two pieces of furniture_ _its a pleasure make to do bussnies with you_ _how many beers_ _how many chocolattinas_ _he has very few friends in barcelona_ 
+**contable** `contables`
+Example:
+* 
+
