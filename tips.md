@@ -121,5 +121,12 @@ _1) i had a **slice tosh** and a **cup the coffee**_ _2) my best friend how give
 
 **contable** `contables`
 Example:
-* 
+
+## DONT SAY 'NICE TO ME YOU'
+No demuestra calides, si quieres proyectar tu personalidad usa:  
+* **i am glad to me you** `encantado de conocerte` y para despedirce **it was nice meeting you** or **its nice metting you** 
+* **it is lovely to me you** `es encantador conocerte para mi` **it was lovely meeting you** `fue un placer conocerte` or **it was big a plesure meeting you** `it was big a plesure meeting you 
+* otras despedidas **its was nice talking to you** **it was great conecting you** **it was great seen you again**.
+
+
 
