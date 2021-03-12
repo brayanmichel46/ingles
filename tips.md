@@ -142,13 +142,13 @@ how ask who calling
 2)Informal:
 * **Who is this?**
 * **Who’s calling?**  
-answer to the previous questions
+answer to the previous questions  
 1)Formal:
 * **Good morning, this is Mr Bartlett.**
 * **I’m calling in regards to the email I received yesterday.**
 3)Informal:
 * **Hi there, it’s Phillip here**  
-how to ask for someone:
+how to ask for someone:  
 1)Formal: 
 * **Could I speak to Mrs Johnson please?**
 * **Could you put me through to the accounts department please?**
@@ -160,7 +160,7 @@ give more information
 * **I’m calling on behalf of the Duke of Edinburgh**
 3)Informal:
 * **I’m calling from the flat downstairs**
-request someone who wait.
+request someone who wait.  
 1)Formal:
 * **Please hold the line for me, one moment**
 * **Would you mind holding the line, just for a moment**  
@@ -171,14 +171,14 @@ transfer a calling
 1)Formal:
 * **Let me put you through.** 
 * **I’ll transfer you now.**
-give negative information:
+give negative information:  
 1)Formal:
 * **I’m afraid she’s busy at the moment.**
 * **Would you mind calling back later?** 
 3)Informal:
 * **No sorry, he’s not around today**
 * **She’s not here at the moment.**
-to take a message
+to take a message  
 1)Formal:
 * **Can I take a message**
 * **I’ll make sure she gets the message.**
@@ -186,7 +186,7 @@ to take a message
 3)Informal:
 * **I’ll tell her you called.**
 * **I’ll let her know you rang**
-say gooobye:
+say gooobye:  
 1)Formal:
 * **Thank you for calling**
 * **Have a nice day**
