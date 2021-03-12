@@ -134,8 +134,8 @@ anwser a calling:
 * **Good morning, Phillip speaking, how can I help you?**
 * **Good morning, you’re through to Amigos Ingleses, how can I help you**
 2) Informal:
-* **Hello** `hola`  
-how ask who calling
+* **Hello** `hola`    
+how ask who calling  
 1)Formal:
 * **May I aks who is calling please?**
 * **Sorry, where are you calling from?**  
