@@ -128,5 +128,73 @@ No demuestra calides, si quieres proyectar tu personalidad usa:
 * **it is lovely to me you** `es encantador conocerte para mi` **it was lovely meeting you** `fue un placer conocerte` or **it was big a plesure meeting you** `it was big a plesure meeting you 
 * otras despedidas **its was nice talking to you** **it was great conecting you** **it was great seen you again**.
 
+## PHRASES TO TALK ON THE PHONE
+anwser a calling: 
+1) Formal:  
+* **Good morning, Phillip speaking, how can I help you?**
+* **Good morning, you’re through to Amigos Ingleses, how can I help you**
+2) Informal:
+* **Hello** `hola`  
+how ask who calling
+1)Formal:
+* **May I aks who is calling please?**
+* **Sorry, where are you calling from?**  
+2)Informal:
+* **Who is this?**
+* **Who’s calling?**  
+answer to the previous questions
+1)Formal:
+* **Good morning, this is Mr Bartlett.**
+* **I’m calling in regards to the email I received yesterday.**
+3)Informal:
+* **Hi there, it’s Phillip here**  
+how to ask for someone:
+1)Formal: 
+* **Could I speak to Mrs Johnson please?**
+* **Could you put me through to the accounts department please?**
+3)Informal:
+* **Is Peter around today? I’m trying to get hold of him.**
+* **Can you put Richard on the phone**
+give more information  
+1)Formal:
+* **I’m calling on behalf of the Duke of Edinburgh**
+3)Informal:
+* **I’m calling from the flat downstairs**
+request someone who wait.
+1)Formal:
+* **Please hold the line for me, one moment**
+* **Would you mind holding the line, just for a moment**  
+3)Informal:
+* **Hang on a minute.**
+* **hold on a minute**
+transfer a calling
+1)Formal:
+* **Let me put you through.** 
+* **I’ll transfer you now.**
+give negative information:
+1)Formal:
+* **I’m afraid she’s busy at the moment.**
+* **Would you mind calling back later?** 
+3)Informal:
+* **No sorry, he’s not around today**
+* **She’s not here at the moment.**
+to take a message
+1)Formal:
+* **Can I take a message**
+* **I’ll make sure she gets the message.**
+* **Could you spell it for me please?**
+3)Informal:
+* **I’ll tell her you called.**
+* **I’ll let her know you rang**
+say gooobye:
+1)Formal:
+* **Thank you for calling**
+* **Have a nice day**
+* **My pleasure**
+2)Informal:
+* **Cheers, bye**
+* **See you, bye**
+
+
 
 
