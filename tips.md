@@ -195,7 +195,7 @@ say gooobye:
 * **Cheers, bye**
 * **See you, bye**  
 
-## PRONUTATION
+## PRONUNCIATION
 * **are you asked me are there books** `are you asked miere there books`
 * **theresn't any milk in that fridge** `theresentany melk en zhat frech`
 * **he doesn't play football anymore** `hi dasent pley foorball enymore`
