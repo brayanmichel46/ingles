@@ -164,36 +164,43 @@ request someone who wait.
 1)Formal:
 * **Please hold the line for me, one moment**
 * **Would you mind holding the line, just for a moment**  
-3)Informal:
-* **Hang on a minute.**
-* **hold on a minute**
+3)Informal:  
+* **Hang on a minute.**  
+* **hold on a minute**  
 transfer a calling
-1)Formal:
+1)Formal:  
 * **Let me put you through.** 
-* **I’ll transfer you now.**
+* **I’ll transfer you now.**  
 give negative information:  
-1)Formal:
+1)Formal:  
 * **I’m afraid she’s busy at the moment.**
-* **Would you mind calling back later?** 
-3)Informal:
+* **Would you mind calling back later?**  
+3)Informal:  
 * **No sorry, he’s not around today**
-* **She’s not here at the moment.**
+* **She’s not here at the moment.**  
 to take a message  
-1)Formal:
+1)Formal:  
 * **Can I take a message**
 * **I’ll make sure she gets the message.**
 * **Could you spell it for me please?**
-3)Informal:
+3)Informal:  
 * **I’ll tell her you called.**
-* **I’ll let her know you rang**
+* **I’ll let her know you rang**  
 say gooobye:  
-1)Formal:
+1)Formal:  
 * **Thank you for calling**
 * **Have a nice day**
-* **My pleasure**
-2)Informal:
+* **My pleasure**  
+2)Informal:  
 * **Cheers, bye**
-* **See you, bye**
+* **See you, bye**  
+
+## PRONUTATION
+* **are you asked me are there books** `are you asked miere there books`
+* **theresn't any milk in that fridge** `theresentany melk en zhat frech`
+* **he doesn't play football anymore** `hi dasent pley foorball enymore`
+* **those are not theirs** `those are not theers`
+* **there are five of them** `there are fiveofhom`
 
 
 
