@@ -202,6 +202,10 @@ say gooobye:
 * **those are not theirs** `those are not theers`
 * **there are five of them** `there are fiveofhom`
 
-
+## three expression useful in english
+* **to be kidding** `estas bromeando to be keren` **you get kidding me** `me estas tomando del pelo` **i am not kidding** `no estoy bromeando`
+* **to be Fed up with** `estar arto de algo i am ferapweth` **i am fed up with that** `estoy arto de esto` **i can't take this anymore** 
+* **keep an eye on something** `vigilar algo kiip` **can you keep an eye on my kids, i need go to badroom** **do you realy keep an eye on** **you have to keep an eye on that new company, can be really good**
+* **carry on** `insistir`
 
 
