@@ -218,3 +218,8 @@ say gooobye:
 * **she insisted on pay** `ella insistio en pagar`
 * **i goint to make the party** nooo **I’m going to have a party this weekend** or **i am going to throw a party this weekend** `voy a tener o dar una fiesta`sii
 
+## ANOTHER, THE OTHER, OTHERS, THE OTHERS
+* **another** `otro` funciona como adjetivo **i need another chair** o pronombre **i need another** or **i need anothee one** 
+* **el otro** `the other` se usa cuando se especifica el otro **i want the other car** como pronombre **i want the other one**
+* **others** `otros` **others curses are not as goog as this one** or you can include \"Some\" **some others curses are not as good as this one** 
+* **the others** `los otros` **we are the others** or you can say **we are the others ones** another example **the others were better**.
