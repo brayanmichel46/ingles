@@ -208,4 +208,13 @@ say gooobye:
 * **keep an eye on something** `vigilar algo kiip` **can you keep an eye on my kids, i need go to badroom** **do you realy keep an eye on** **you have to keep an eye on that new company, can be really good**
 * **carry on** `insistir`
 
+## let of make mistake
+* **i recommend you try the soup, i recommend you try the soup** si **i recommen you to try the soup** no
+* **i reccomend you visit the catedral** si
+* **its on me, Let me treat you,It’s my treat** `yo invito` si **let me invit you, i insist** No
+* **let's go half** `pagar a medias`
+* **who part his car here** no no hay palabra su se debe usar his o her **who parked his or her car here** or **who parked their car here** 
+* cuando no sabesmos el genero en la oracion podemos usar them example: **when the student passed their exams the teacher must congratulated them**
+* **she insisted on pay** `ella insistio en pagar`
+* **i goint to make the party** nooo **I’m going to have a party this weekend** or **i am going to throw a party this weekend** `voy a tener o dar una fiesta`sii
 
