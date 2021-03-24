@@ -223,3 +223,11 @@ say gooobye:
 * **el otro** `the other` se usa cuando se especifica el otro **i want the other car** como pronombre **i want the other one**
 * **others** `otros` **others curses are not as goog as this one** or you can include \"Some\" **some others curses are not as good as this one** 
 * **the others** `los otros` **we are the others** or you can say **we are the others ones** other \"el anterior other para incontable en remplazo de another"\ example **the others were better**.
+
+## 6 funny expressions in english
+* **Don’t give up the day job** `You suck, eres un inutil`
+* **To blow your own trumpet** `to show off tirarse flores o darse bombo`
+* **It’s all Greek to me** `no entiendo`
+* **As cool as a cucumber.** `mantenerse tranquilo en cualquier situacion`
+* **To take the mickey.**  `reirse de alguien`
+* **The lights are on but nobody’s home.** `pocas luces`
