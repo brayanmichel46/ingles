@@ -231,3 +231,11 @@ say gooobye:
 * **As cool as a cucumber.** `mantenerse tranquilo en cualquier situacion`
 * **To take the mickey.**  `reirse de alguien`
 * **The lights are on but nobody’s home.** `pocas luces`
+## how use TO BE ABLE
+Sinonimo de poder.
+* **can you play the piano** using `to be able`  **are you able to play the piano**
+* **we are able to speak french** es necesario por que el can esta limitado al presente **will you be able to stay here tomorrow** otro ejemplo **will i be able to see the show** con goin to **you aren't goin to be able to understand**
+* en pasado **were they able to finish on time** example 2 **were you able to talk to her** sin el be ya que esta conjugado con el were.
+* **he is not capable of doing it** another example **are you capaple of talling her the true**
+* **avalaible** `disponible`  **a new product is avalaible** another example **is michael avaliable to talk now**.
+
