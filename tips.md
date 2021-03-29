@@ -241,5 +241,4 @@ Sinonimo de poder.
 ## how to say rudenesses without to be rude
 * **ohh sh*t I forgot to feed the cat!**  Otras alternativas más suaves, serían: **Oh sugar!** `oh cariño` **Damm it!** `Maldita sea` **Oh crap!** `oh mierda` **Oh bugger!** `oh maldito` **Oops a daisy** `ops una margarita`.
 * **Oh for f*ck sake** `joder por dios` Otras alternativas **For goodness’ sake!** `por el amor de dios` **Goodness gracious me** `dios mio dame la gracia`
-
-
+* **What the hell are you talking about** `De qué diablos estás hablando` others options **What the heck are you talking about?** `que demonios hablas` **What are you going on about?** `a donde vas con eso`
