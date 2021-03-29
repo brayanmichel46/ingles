@@ -238,4 +238,8 @@ Sinonimo de poder.
 * en pasado **were they able to finish on time** example 2 **were you able to talk to her** sin el be ya que esta conjugado con el were.
 * **he is not capable of doing it** another example **are you capaple of talling her the true**
 * **avalaible** `disponible`  **a new product is avalaible** another example **is michael avaliable to talk now**.
+## how to say rudenesses without to be rude
+* **ohh sh*t I forgot to feed the cat!**  Otras alternativas más suaves, serían: **Oh sugar!** `oh cariño` **Damm it!** `Maldita sea` **Oh crap!** `oh mierda` **Oh bugger!** `oh maldito` **Oops a daisy** `ops una margarita`.
+* **Oh for f*ck sake** `joder por dios` Otras alternativas **For goodness’ sake!** `por el amor de dios` **Goodness gracious me** `dios mio dame la gracia`
+
 
