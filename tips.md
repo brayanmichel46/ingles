@@ -242,3 +242,12 @@ Sinonimo de poder.
 * **ohh sh*t I forgot to feed the cat!**  Otras alternativas más suaves, serían: **Oh sugar!** `oh cariño` **Damm it!** `Maldita sea` **Oh crap!** `oh mierda` **Oh bugger!** `oh maldito` **Oops a daisy** `ops una margarita`.
 * **Oh for f*ck sake** `joder por dios` Otras alternativas **For goodness’ sake!** `por el amor de dios` **Goodness gracious me** `dios mio dame la gracia`
 * **What the hell are you talking about** `De qué diablos estás hablando` others options **What the heck are you talking about?** `que demonios hablas` **What are you going on about?** `a donde vas con eso`
+* **Look I don’t give a sh*t, ok?** `me importa una mierda` others opcions **I couldn’t care less** `No podría importarme menos`
+* **Oh my god** `oh dios mio` others opcions **Oh dear** `oh querido` 
+* **F*ck off** `vete a la mierda` others opcions **Get lost** `pierdete.` **get a life** `consiguete una vida`
+* **Idiom** **excuse my French** `significa perdona por mi lenguaje soez`
+* **Oh that dog’s a pain in the ass** `es como una patada en el culo` para decir que alguien o algo es un coñazo. **Oh dear, what a pain in the arse your job is**. or **You’re a pain in the neck**
+* **What a bitch!** `que perra` 
+* **That’s so f*ck*ng annoying** `èsto es tan jodidamente molesto` others opcions **That’s so freaking annoying**  `Eso es tan malditamente molesto`
+* **Oh shut the f*ck up** `cierra la boca` **Shut your mouth** `cierra la boca menos ofensivo` **Zip it** `cierralo more refinado`.
+* 
