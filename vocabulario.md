@@ -1,4 +1,8 @@
 # Words 
+* **proud** `orgulloso` _i am proud of you_
+* **safety** `seguridad`
+* **safe** `seguro` 
+* **guard** `estoy en guardia` _i am on guard_ _to be on guard_ _you have to be on guard in your travels to dangerous_
 * **jewelry** `joya`
 * **robery** `robo`
 * **automatic teller machine** `cajero automatico acronimo ATM`
@@ -276,9 +280,11 @@
 * **Die _died died_** `morir` _she died the last year_ `ella murio el año pasado`
 * **drive _drove driven** `conducir` _you are driving to the beach in car_ `vas a la playa en coche`
 * **eat _ate eaten_** `comer` _today we goin to eat indian food_ 
+* **Improve _improved improved_** `mejorar` _the safety is improving_ `la seguridad esta mejorando`
 * **Enjoy _Enjoyed Enjoyed_** `disfrutar` _enjoy stay_ `disfruta tu estancia`
 * **Fall _Fell Fallen_** `caer` _he fell on his knees_ `el cayo sobre sus rodillas`
 * **find _Found Found_** `encontrar` 
+* **follow _followed followed** `seguir` _its important to follow the rules in english_
 * **Get _Got Gotten_** `Conseguir, llegar, obtener` _I am getting tired_ `Me estoy cansando`
 * **Give _gave given_** `dar`
 * **kidnap _kidnaped kidnaped_** `secuestrar`
