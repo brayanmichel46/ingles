@@ -263,3 +263,7 @@ tu estas andando o ustedes estan andando estas en ingles se usa la misma frase y
 * **en que estan pensando** `what are you guys thinking about`
 * **que quieren que haga** `what do you guys want me you do?
 * **que dijeron** `what did you guys say`
+
+## how order at restaurant in english
+* **step 1: reserve by phone**  
+how can i help - id like to book the table for evening please at 8:30 its possible - How many of you are there? - just me. - 
