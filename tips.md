@@ -250,4 +250,16 @@ Sinonimo de poder.
 * **What a bitch!** `que perra` 
 * **That’s so f*ck*ng annoying** `èsto es tan jodidamente molesto` others opcions **That’s so freaking annoying**  `Eso es tan malditamente molesto`
 * **Oh shut the f*ck up** `cierra la boca` **Shut your mouth** `cierra la boca menos ofensivo` **Zip it** `cierralo more refinado`.
-* 
+
+## ESPRESION "YOU GUYS"
+tu estas andando o ustedes estan andando estas en ingles se usa la misma frase you are walking  para diferenciar usamos:
+* **guys** `chicos gaiz` se usa para chicas y chicos en estos casos.
+* **are you eating** `tu estas comiendo` **are you guys eating** `ustedes estan comiendo`
+* **you are not runnign** `tu no estas corriendo` **you guys are not running** `ustedes no estan corriendo`
+* **tienen que irte** `you guys have to go`
+* **ustedes se tienen que ir?** `do you guys have to go.
+* **no se tienen que ir** `you guys dont have to go`
+* **tienen ustedes otro lapiz o un lapiz de sobra** `do you guys have a next pencil?
+* **en que estan pensando** `what are you guys thinking about`
+* **que quieren que haga** `what do you guys want me you do?
+* **que dijeron** `what did you guys say`
