@@ -266,4 +266,9 @@ tu estas andando o ustedes estan andando estas en ingles se usa la misma frase y
 
 ## how order at restaurant in english
 * **step 1: reserve by phone**  
-how can i help - id like to book the table for evening please at 8:30 its possible - How many of you are there? - just me. - 
+how can i help - id like to book the table for evening please at 8:30 its possible - How many of you are there? - just me. - table for one- just a table for one - under the name of -  It’s Mr Villota - ok sir thas a book for you - oh right see you later bye .
+* **step 2 : arrival at the restaurant**
+good evening i have a reservation under the name mr Villota table for one 8:30, **y si no tiene reserva**  do you have a table for one by any chance?
+* **step 3 : order a drink
+what do you like to drink - could i have a beer please or i think i will have the red wine or just water for me. si quieres pedir agua del grifo 
+* **
