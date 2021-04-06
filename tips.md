@@ -270,5 +270,6 @@ how can i help - id like to book the table for evening please at 8:30 its possib
 * **step 2 : arrival at the restaurant**
 good evening i have a reservation under the name mr Villota table for one 8:30, **y si no tiene reserva**  do you have a table for one by any chance?
 * **step 3 : order a drink
-what do you like to drink - could i have a beer please or i think i will have the red wine or just water for me. si quieres pedir agua del grifo 
-* **
+what do you like to drink - could i have a beer please or i think i will have the red wine or just water for me. si quieres pedir agua del grifo -> could i have some tap water please?
+* **step 4 : order food**
+so are you ready to order sr, no quite sorry a just need more time hang on 5 minutes - are you ready now sr - yes i think i am ready now, to start i'll have the brocolli could we get some nachos to share, i think i ll go for the cod with chips, For me the leek and potato soup. And for the main course cod with tomato sauce and chip
