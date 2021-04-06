@@ -272,4 +272,14 @@ good evening i have a reservation under the name mr Villota table for one 8:30, 
 * **step 3 : order a drink
 what do you like to drink - could i have a beer please or i think i will have the red wine or just water for me. si quieres pedir agua del grifo -> could i have some tap water please?
 * **step 4 : order food**
-so are you ready to order sr, no quite sorry a just need more time hang on 5 minutes - are you ready now sr - yes i think i am ready now, to start i'll have the brocolli could we get some nachos to share, i think i ll go for the cod with chips, For me the leek and potato soup. And for the main course cod with tomato sauce and chip
+so are you ready to order sr, no quite sorry a just need more time hang on 5 minutes - are you ready now sr - yes i think i am ready now, to start i'll have the brocolli could we get some nachos to share, i think i ll go for the cod with chips, For me the leek and potato soup. And for the main course cod with tomato sauce and chips.
+* **step 5 : how to question about dishes**
+Does the soup have garlic in it? - if you are allergic something you can say - I’m allergic to peppers, is it possible to remove them.
+* **step 6 : if you want order anything else**
+excusme - Can we have another teaspoon, please
+* **step 7 : can i get you anything else**
+No, we’re fine thank you, Can I get the bill please or Could I have a look at the dessert menu please?, Was everything ok for you? It was lovely, thank you or Everything was delicious.
+* **step 8 : if something has gone bad**
+La carne estaba dura → The steak was a little bit tough.
+La pasta estaba demasiado hecha → The pasta was slightly overcooked.
+El pescado estaba crudo → The fish was a bit raw.
