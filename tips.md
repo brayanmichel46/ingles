@@ -283,3 +283,8 @@ No, we’re fine thank you, Can I get the bill please or Could I have a look at 
 La carne estaba dura → The steak was a little bit tough.
 La pasta estaba demasiado hecha → The pasta was slightly overcooked.
 El pescado estaba crudo → The fish was a bit raw.
+
+## how to use still and anymore
+* **still** `todavia aun sstell` la accion esta todavia en proceso **i am still living in madrid** **are you still living in madrid** **they are still playing** **he was still here** **he was still working** **do you still like rock and roll** **i still like rock roll** Bonus **stay still** `quedarse quieto`
+* **anymore** `ya no todavia no enymorrr` anymore junto  **im not working anymore** `ya no estoy trabajando` **he is not my friend anymore** `el ya no es mi amigos` **we arent friends anymore** **i dont play guitar anymore** `ya no toco la guirarra` 
+more examples: **he is still sleeping** **he is no sleeping anymore** **they are not talk anymore** 
