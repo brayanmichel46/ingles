@@ -288,3 +288,11 @@ El pescado estaba crudo → The fish was a bit raw.
 * **still** `todavia aun sstell` la accion esta todavia en proceso **i am still living in madrid** **are you still living in madrid** **they are still playing** **he was still here** **he was still working** **do you still like rock and roll** **i still like rock roll** Bonus **stay still** `quedarse quieto`
 * **anymore** `ya no todavia no enymorrr` anymore junto  **im not working anymore** `ya no estoy trabajando` **he is not my friend anymore** `el ya no es mi amigos` **we arent friends anymore** **i dont play guitar anymore** `ya no toco la guirarra` 
 more examples: **he is still sleeping** **he is no sleeping anymore** **they are not talk anymore** 
+
+## this, that these, those, they, it
+* **this** `este zthes` **this is a book** `esto es un libro` en ausencia del libro **its a book** `es un libro` 
+* **these** `estos thziss`
+* **that** `aquello thza`
+* **those** `aquellos thzose`
+* **they** `zthey` 
+Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la vista no usamos it or they.
