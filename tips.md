@@ -296,3 +296,11 @@ more examples: **he is still sleeping** **he is no sleeping anymore** **they are
 * **those** `aquellos thzose`
 * **they** `zthey` 
 Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la vista no usamos it or they.
+
+## HOW USE SO AND TOO
+* **too** `demasiado` **you are too talk** `eres demasiado alto` **you are not too talk** `tu no eres tan alto` **is ti too spencive** `es demasiado caro?`
+* **so** `tanto` **dont drive so fast** `no conduzcas tan rapido` **well, its not so far** `no esta tan lejos` or **its no than far**.
+* **so much** `tanto incontable` examples: **dont drink so much wine** **dont eat so much** `no comas tanto`
+* **so many** `tantos contables`examples: **i have so many problems that i not know that to do** 
+* **too much** `demaciado`
+* **too many** `demaciados`
