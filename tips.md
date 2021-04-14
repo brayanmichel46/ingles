@@ -304,3 +304,7 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **so many** `tantos contables`examples: **i have so many problems that i not know that to do** 
 * **too much** `demaciado`
 * **too many** `demaciados`
+## PHRASE USEFULL
+* **Fancy a cuppa?** `quieres una copa de te`
+* **Don’t be cheeky** `no seas descarado`
+*  
