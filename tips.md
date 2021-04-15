@@ -307,4 +307,7 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 ## PHRASE USEFULL
 * **Fancy a cuppa?** `quieres una copa de te`
 * **Don’t be cheeky** `no seas descarado`
-*  
+* **im easy** `eres felixible te da igual`
+* **im off** `me voy, teng el dia libre, viajar a` **ready, i am off see you monday** or **will you working tomorrow?-No im off** or **im off to paris this weeken**
+* **Cheers** `gracias o salud`
+* 
