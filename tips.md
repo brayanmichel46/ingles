@@ -309,5 +309,9 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **Don’t be cheeky** `no seas descarado`
 * **im easy** `eres felixible te da igual`
 * **im off** `me voy, teng el dia libre, viajar a` **ready, i am off see you monday** or **will you working tomorrow?-No im off** or **im off to paris this weeken**
-* **Cheers** `gracias o salud`
-* 
+* **Cheers** `gracias o salud` 
+* **i got tied up** `me he atado o entretenido con algo` **sorry, iam runnig a bit late, i got tied up at work**
+* **i'm having second thoughts** `estabas seguro de algo pero empiezas a tener dudas` **do you like the new manager? well, i did. but after yesterday's meetting, im having second thoughts
+* **i'll sleep on it** `consultar algo con la almohada` **let me sleep on it, i ll get back to you tomorrow** `me pondre en contacto con usted mañana`
+* **fair enough** `me parece justo` **for the party, if you like i can buy the food and you get the drink - ok fair anough**
+* **im sick of** `harto de alguien o algo` **im sick of cycling to work everyday, i wish i could buy a car**   
