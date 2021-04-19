@@ -315,3 +315,8 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **i'll sleep on it** `consultar algo con la almohada` **let me sleep on it, i ll get back to you tomorrow** `me pondre en contacto con usted mañana`
 * **fair enough** `me parece justo` **for the party, if you like i can buy the food and you get the drink - ok fair anough**
 * **im sick of** `harto de alguien o algo` **im sick of cycling to work everyday, i wish i could buy a car**   
+## QUIT QUITE QUIET
+* **QUIT** `dejar quet` **he is gonna to quit smoking**
+* **QUITE** `intencificador quait`**he is quite tall** `expresa cantidades` **quiet a lot of watter - quiet a few bots**
+* **QUIET** `quaet` **you need to be quiet now**
+* **i am going to quit, i need something quite quiet**
