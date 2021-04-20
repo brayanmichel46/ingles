@@ -321,7 +321,7 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **QUIET** `quaet` **you need to be quiet now**
 * **i am going to quit, i need something quite quiet**
 
-## 10 WORDS THAT WE BAD PRONUNTATION
+## 10 WORDS THAT WE PRONUNCIATION BAD 
 * **Purple** `parpul r muy suave`
 * **circle** `cercle r muy suave`
 * **sugar** `sssuuga` you take sugar with the coffe
