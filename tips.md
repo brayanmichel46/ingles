@@ -320,3 +320,15 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **QUITE** `intencificador quait`**he is quite tall** `expresa cantidades` **quiet a lot of watter - quiet a few bots**
 * **QUIET** `quaet` **you need to be quiet now**
 * **i am going to quit, i need something quite quiet**
+
+## 10 WORDS THAT WE BAD PRONUNTATION
+* **Purple** `parpul r muy suave`
+* **circle** `cercle r muy suave`
+* **sugar** `sssuuga` you take sugar with the coffe
+* **skull** `skoul` a skull has been fouhnd in the river 
+* **devil** `davel` 
+* **fragile** `fragail` my heart is fragile.
+* **tomato** `tomero`
+* **raw** `roww fish` do you like rar vegetable
+* **picture** `pichure` do you mind take a picture of me please.
+* **ohh speaking the devil** `hablando del rey de roma`
