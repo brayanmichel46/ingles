@@ -332,3 +332,5 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **raw** `roww fish` do you like rar vegetable
 * **picture** `pichure` do you mind take a picture of me please.
 * **ohh speaking the devil** `hablando del rey de roma`
+## DIFFERENCES
+* **i don't mind** `no me importa` **sorry carlos i have to leave five minutes early - i dont mind** `Carlos tengo que irme cinco minutos antes, no importa` **carlos sorry, my computer doesnt work i have to use your, i don't mind **
