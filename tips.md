@@ -334,4 +334,5 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **ohh speaking the devil** `hablando del rey de roma`
 ## DIFFERENCES
 * **i don't mind** `no me importa en buen plan` **sorry carlos i have to leave five minutes early - i dont mind** `Carlos tengo que irme cinco minutos antes, no importa` **carlos sorry, my computer doesnt work i have to use your, i don't mind ** **do you mind help me?** mind tambien **mind the gap** `cuidado con el hueco`
-* **it doesn't matter** `no importa pero si con grado de tristesa` **Sorry carlos remember the book i borrowed for you i know what happen but i lost it, i not where it. ooh it is my favorite book. but are you didn't do a purpose. so it doesn't matter.**
+* **it doesn't matter** `no importa pero si con grado de tristesa algo de molestia` **Sorry carlos remember the book i borrowed for you i know what happen but i lost it, i not where it. ooh it is my favorite book. but are you didn't do a purpose. so it doesn't matter.** extra **whats the matter?** `¿que pasa?`
+* **i dont care** `No me importa de forma despectiva` **i dont care what you say** `no me importa lo que digas` **who care** `a quien le importa`
