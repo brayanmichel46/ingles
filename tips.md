@@ -336,3 +336,17 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **i don't mind** `no me importa en buen plan` **sorry carlos i have to leave five minutes early - i dont mind** `Carlos tengo que irme cinco minutos antes, no importa` **carlos sorry, my computer doesnt work i have to use your, i don't mind ** **do you mind help me?** mind tambien **mind the gap** `cuidado con el hueco`
 * **it doesn't matter** `no importa pero si con grado de tristesa algo de molestia` **Sorry carlos remember the book i borrowed for you i know what happen but i lost it, i not where it. ooh it is my favorite book. but are you didn't do a purpose. so it doesn't matter.** extra **whats the matter?** `¿que pasa?`
 * **i dont care** `No me importa de forma despectiva` **i dont care what you say** `no me importa lo que digas` **who care** `a quien le importa`
+
+## Ten way of say that yes
+* **absolutely** `por supuesto que si` **would you mind giving me a lift to work?, absolutely* `te importaria llevarme al trabjo`
+* **it would be a pleasure** `seria un placer` **can you double check my English homework, it'd be a pleasure**
+* **No problem** `ningun problema` **Please dont tell anyone about my trip to Norway- No problem**
+* **Sure** `Claro como no` **can you bring another chair -  sure** 
+* **By all means** `claro que si` **do you think i can stay of yours for a couple of nights -  by all means** `crees que pueda quedarme contigo un para de noches`
+* **of course** `por supuesto` **could you please pass me the cranberry sauce** `podrias pasarme la salsa de arandanos`
+* **indeed** `efectivamente , ya lo creo, de echo` **we have beem working really hard on this project - indeed its been a real challenge** 
+* **i dont see why not** `no veo por que no` **shall we invite Sam to the wedding? - dont see why not** 
+* **very well** `muy bien` **would you look after dog for a minute please - very well** `cuidarias del perro por un minuto?`
+* **i may/might as well** `ya que estoy, podria tambien` **I’m off to Paris this week for work, I suppose I might as well visit my cousin** `Me voy a paris esta semana por trabajo, yo supongo que tambien podria visitar a mi primo` cuando decimos **may(might as well do sommething** quiere decir que haremos lo que decimos pero no estamos especiamente interesados e incluso somos un algo reacios a ello.
+
+
