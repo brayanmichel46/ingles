@@ -349,4 +349,11 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **very well** `muy bien` **would you look after dog for a minute please - very well** `cuidarias del perro por un minuto?`
 * **i may/might as well** `ya que estoy, podria tambien` **I’m off to Paris this week for work, I suppose I might as well visit my cousin** `Me voy a paris esta semana por trabajo, yo supongo que tambien podria visitar a mi primo` cuando decimos **may(might as well do sommething** quiere decir que haremos lo que decimos pero no estamos especiamente interesados e incluso somos un algo reacios a ello.
 
+## Recommend suggest insist vesbos de urgencia.
+* **recommend** `recomiendo` **i recommend you come** "Verbo en la forma base sin el to es decir mal to come correct come" example **i recommended he buy a car**, **1) i recommend she come** **2) do you recommend he stay** **3) i recommend he be here tomorrow**
+* **Suggest** `sugerir` **1) i suggest you buy it** **2) i gonna suggest they stay**
+* **insist** `insistire`
+* **crucial**.
+
+
 
