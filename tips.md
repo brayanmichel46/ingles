@@ -353,7 +353,12 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **recommend** `recomiendo` **i recommend you come** "Verbo en la forma base sin el to es decir mal to come correct come" example **i recommended he buy a car**, **1) i recommend she come** **2) do you recommend he stay** **3) i recommend he be here tomorrow**
 * **Suggest** `sugerir` **1) i suggest you buy it** **2) i gonna suggest they stay**
 * **insist** `insistire`
-* **crucial**.
+* **crucial**
+
+## LESS OR FEWER
+* **Fewer** `menos lo puedes contar sustantivos contables` **i drink fewer cups of tea than you**
+* **less** `menos no lo puedes contar sustantivos incontables pero si hablamos de cantidades y medidas usamos igual` **i drink less tean than you**
+
 
 
 
