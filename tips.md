@@ -359,6 +359,16 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **Fewer** `menos lo puedes contar sustantivos contables` **i drink fewer cups of tea than you**
 * **less** `menos no lo puedes contar sustantivos incontables pero si hablamos de cantidades y medidas usamos igual` **i drink less tean than you**
 
-
+## 10 words that write equal in english and spanish
+* **favor** `feivor` **can you do me a favor** `me puedes hacer un favor` **can i ask you a favor** `te puedo pedir un favor`
+* **animal** `anemal` **what a beautiful animal** **its a completed different animal** `es una liga diferente nivel -> exprecion`
+* **admirable** `admerable` **what you did was admirable**
+* **inevitable** `eneberable` **that was inevitable**
+* **crisis** `craices` **it was just the crisis**
+* **hospital** `haospetal` **we are going to the hospital right now**  
+* **hotel** `hótel` 
+* **saliba** `salebal` 
+* **coyote** `cauyoury` 
+* **hyena** `hayena`
 
 
