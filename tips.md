@@ -371,4 +371,28 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **coyote** `cauyoury` 
 * **hyena** `hayena`
 
+## La palabra en inglés que estás usando 'a bit too much' -> amazing or awesome
+
+    Astonishing.
+    Awesome.
+    Beyond words.
+    Bewildering.
+    Breathtaking.
+    Brilliant.
+    Delightful.
+    Extraordinary.
+    Fantastic.
+    Fascinating.
+    Gorgeous.
+    Marvellous.
+    Mind–blowing.
+    Outstanding.
+    Out of this world.
+    Sensational.
+    Superb.
+    Stunning.
+    Unbelievable.
+    Wonderful.
+
+
 
