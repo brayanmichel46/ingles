@@ -398,3 +398,15 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **between** `entre especificando una localizacion u opciones especificas` **the car is between the house and the three** - **how is maria ? the one between miguel and sara** - **you have to share between your sister an your brother** - **you have to share between them** 
 * **among** `entre sin especificar ubicación completa` **she is among best candidates** - **Pedro is among the people** - **she wasnt among students** - **among them there was an importan person**
 
+## 10 PHRASAL VERBS para presumir de inglés en el trabajo
+* **To settle down** `prepararse establecerse sentar cabeza` **My mum keeps saying that I need to stop travelling and settle down, but I’m still too young for that** 
+* **To get through** `Encontrar, comunicarse` **I’ve been trying to reach Sarah, but I can’t get through to her** 
+* **To crack on** `ponerse en serio con algo` **Stop talking and crack on with your homework**
+* **To be off work** `no estar trabajando` **i’m planning to go travelling this summer as I’ll be off work for the whole month of August**
+* **To fill in** `remplazar o sustituir a otro trabajador o rellenar algo` **We need someone to fill in the secretary position before the end of the week**
+* **Take over** `encargarse tomar el control` **Don’t worry, off you go, I’ll take over!** 
+* **Call off** `anular` **The department meeting has been called off this week so please use your time wisely**
+* **To bring up** `sacar un tema, criar, educar` **Please don’t bring up the divorce issue, he’s still very sensitive about it**
+* **To point out** `señalar puntualizar` **I couldn’t see where the error was, but my teacher immediately pointed it out**
+* **To look into** `investigar, revisar, estudiar un asunto` **Something is wrong with my car, I need to look into it this weekend**
+
