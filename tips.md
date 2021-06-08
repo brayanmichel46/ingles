@@ -410,3 +410,9 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **To point out** `señalar puntualizar` **I couldn’t see where the error was, but my teacher immediately pointed it out**
 * **To look into** `investigar, revisar, estudiar un asunto` **Something is wrong with my car, I need to look into it this weekend**
 
+## 3 Typical mistakes in inglés
+* **well, i am boring** `soy aburrido` -> **i'am bored** `estoy aburrido` el estado en si ed y lo que genera el estado ing.
+* **i actually living in new york** actualmente no es actually(`de echo, realmente`) actualmente es currently **i currently living in new york**.
+* **i am used to live here** esta mal debemos usar ing porque se nominaliza el verbo construcción de sustantivos a partir de verbos  **i am used to living here**
+* 
+
