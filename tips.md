@@ -1,7 +1,7 @@
 # JUST AND ONLY
 ## JUST
 como adjetivo **justo** y como advervio **algo que se acaba de hacer** _they have just finish_ 
-* his just a kid
+* he's just a kid
 * i just calling you.
 * i'll stay just for one minute
 * i just pay for the drinks
