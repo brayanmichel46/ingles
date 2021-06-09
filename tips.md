@@ -8,7 +8,7 @@ como adjetivo **justo** y como advervio **algo que se acaba de hacer** _they hav
 ## ONLY
 como adjetivo **el unico** he is the only boy in the class, you are the only one _eres el unico_ the one in only _el unico e inigualabel_
 como adverbio **solo quiero, es ....** come on is only money, i only want tell you what happened
-Son intercambiable cuando se refieren a **unicamente simplemente**  i only her for help you, its just a little problem, 
+Son intercambiable cuando se refieren a **unicamente simplemente**  i only here for help you, its just a little problem, 
 
 # CONTRACTIONS USED
 * **abs** _abdominals_
