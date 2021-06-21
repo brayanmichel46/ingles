@@ -420,3 +420,31 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **to ask** `pedir una accion` **ask her to stamp up**, **ask tham to live**, **ask him to stamp down** `pidele a el que se vaya** 
 * **to ask** `preguntar por alguien` **when you get to the pharmacy ask for Jhon**, **when you'll see Jhon ask him about his grandmom*
 * **to ask** Bonus: **can ask you a favor** **be careful, your ask for it** `te la estas buscando`
+## codigo fonetico internacional (spell)
+you have lear this alphabet by heart
+a -> alfa
+b -> bravo
+c -> chalet
+d -> delta
+e -> eco
+f -> fox trot
+g -> golf
+h -> hotel
+i -> india
+j -> juliet
+k -> kilo 
+l -> lima
+m -> mike
+n -> november
+o -> oscar
+p -> papa
+q -> quebet
+r -> romeo
+s -> sierra
+t -> tango 
+u -> uniform
+v -> victor 
+w -> whisky
+x -> exrey
+y -> yankee
+z -> zulu
