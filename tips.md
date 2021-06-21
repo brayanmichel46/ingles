@@ -414,5 +414,9 @@ Diferencia con it cuando identificamos un objeto o lo señalamos lo tenemos a la
 * **well, i am boring** `soy aburrido` -> **i'am bored** `estoy aburrido` el estado en si ed y lo que genera el estado ing.
 * **i actually living in new york** actualmente no es actually(`de echo, realmente`) actualmente es currently **i currently living in new york**.
 * **i am used to live here** esta mal debemos usar ing porque se nominaliza el verbo construcción de sustantivos a partir de verbos  **i am used to living here**
-* 
 
+## verb "To ask"
+* **to ask** `pedir algo` **if you can find it ask me for it**, **ask them for that** , **ask her for than** se salta la th para acortar las palabras **ask then for the books**, **ask maria for the bique** , **i never ask anybody for anything** 
+* **to ask** `pedir una accion` **ask her to stamp up**, **ask tham to live**, **ask him to stamp down** `pidele a el que se vaya** 
+* **to ask** `preguntar por alguien` **when you get to the pharmacy ask for Jhon**, **when you'll see Jhon ask him about his grandmom*
+* **to ask** Bonus: **can ask you a favor** **be careful, your ask for it** `te la estas buscando`
