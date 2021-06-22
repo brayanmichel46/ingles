@@ -448,3 +448,11 @@ w -> whisky
 x -> exrey
 y -> yankee
 z -> zulu
+
+## pronuntition of nomes music bands 
+* **led zeppelin** `led zeplent`
+* **the purple** `di perple`
+* **beyonce** `biyonce`
+* **aerosmith** `erosmeth`
+* **radiohead** `rediohed`
+* **ren** `arien` 
