@@ -456,3 +456,14 @@ z -> zulu
 * **aerosmith** `erosmeth`
 * **radiohead** `rediohed`
 * **ren** `arien` 
+
+## how to greet
+* **how are you?** `que tal` 
+* **how are you doing?** `como vas` i doing well, im good, im ok, im fine.
+* **how is a going?** `como va` well.
+* **how are thing going** `como van las cosas` 
+* **how everthing going** `como va todo`
+* **what up** `como esta` hey, how are you.
+* **long time no see** `cuando no has visto a alguien` 
+* **whats going on** `que pasa` 
+ 
