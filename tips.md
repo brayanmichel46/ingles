@@ -466,4 +466,12 @@ z -> zulu
 * **what up** `como esta` hey, how are you.
 * **long time no see** `cuando no has visto a alguien` 
 * **whats going on** `que pasa` 
+
+## five expression in english they didn't teach you
+* **to show off** `presumir`
+* **to push the bote out** `tirar la casa por la ventana`
+* **by the skin in your teeths** `aprobas por un pelo`
+* **is piece of cake** `pan comido`
+* **all mouth and no breeches ** `mucho ruido y pocas nueces`
+* **you are the dog balls** `eres la leche tio` 
  
