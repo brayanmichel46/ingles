@@ -7,8 +7,6 @@
 * Conditional Simple **I would dance** `Bailaria`
 * Conditional Continuous **I would be dancing** `Estaria bailando`
 ## Past verb tenses
-* Present Perfect **I have danced** `He bailado`
-* Present Perfect Continuous **I have been dancing** `He estado bailando`
 * Simple past **I danced** `bailé`
 * Continuous Past **I was dancing** `Estuve bailando`
 * Past perfet **I had danced** `habia bailado` **I had already danced** `Yo ya habia bailado`
