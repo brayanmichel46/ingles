@@ -86,6 +86,41 @@ https://www.britishcouncil.org.mx/blog/past-perfect#:~:text=El%20pasado%20perfec
 * Expresar una acción que inició en el pasado y se desarrolló durante algún tiempo hasta que otra acción la interrumpió. `She had been reading for seven hours when she fell asleep (Ella había estado leyendo por siete horas cuando se quedó dormida).`
 * Indicar una acción del pasado que provocó otra, también en el pasado. `I was tired because I had been working all day (Yo estaba cansado porque había estado trabajando todo el día).`
 
+## Link
+https://www.britishcouncil.org.mx/blog/past-perfect-continuous
+
+# Would
+
+En ciertos contextos, would es intercambiable por used to. Por razones estilísticas, por comodidad y por mayor facilidad de pronunciación, a veces utilizamos la primera en lugar de la segunda. La estructura sería la siguiente.
+## Estructura
+
+* Afirmativa: Sujeto + would + verbo en infinitivo + complementos
+* Negativa: Sujeto + wouldn’t + verbo en infinitivo + complementos
+
+## Cuando se usa
+A diferencia de used to, would solo es correcta si la acción descrita es una acción repetida durante un período de tiempo:
+* As a child, I would walk to school every morning. — De niña, solía ir al colegio andando todas las mañanas.
+* I would drink two glasses of apple juice a day back then. — Solía beberme dos vasos de zumo de manzana al día por aquel entonces.
+* Every evening, when I got home, I would leave my shoes at the door. — Cada tarde, cuando volvía a casa, solía dejar los zapatos a la entrada.
+
+# Used to
+
+## Estructura:
+* [+] Sujeto + used to + verbo en infinitivo + complementos
+* [-] Sujeto + didn’t use to + verbo en infinitivo + complementos
+* [?] Did + sujeto + used to + verbo en infinitivo + complementos
+## Cuando se usa:
+Used to se utiliza para expresar un hábito o circunstancia que ocurría en el pasado, normalmente algo que ya no es cierto
+
+* As a child, I used to walk to school every morning. — De niña, solía ir al colegio andando todas las mañanas.
+* I used to have two dogs, but one of them died last month. — Tenía dos perros, pero uno se me murió el mes pasado.
+* I used to be afraid of darkness when I was younger. — Solía tenerle miedo a la oscuridad cuando era más pequeño.
+
+used to sirve tanto para acciones repetidas o hábitos como para condiciones, estados o características. Recuerda este detalle, porque es lo que te va a servir para diferenciarlo de would.
+
+# be/get used to
+
+
 
 
 
