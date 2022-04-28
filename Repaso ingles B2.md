@@ -42,6 +42,40 @@ https://www.britishcouncil.org.mx/blog/past-simple
 * cuya terminación al pronunciarse, produce un sonido sordo, es decir, que no vibran las cuerdas vocales. Estos sonidos pueden ser:p, k, ch, sh, f, s, h. `Stop - stopped - Se pronuncia /stopt/
 * su terminación produce un sonido en el que sí vibran las cuerdas vocales (pensemos en el zumbido de una abeja): b, g, i, z, m, l, `Hug - hugged - Se pronuncia /hugd/`
 
+# Tiempo pasado continuo
+## Estructura
+* [+] Your dog was playing with its toys when I arrived `Sujeto + verbo auxiliar (to be) + verbo en gerundio (ing) + complemento`
+* [-] I was not studying Physics at that time. `Sujeto + verbo auxiliar (to be) + not + verbo en gerundio (ing) + complemento`
+* [?] Were you eating candies when I entered the room? `Verbo auxiliar (to be) + sujeto + verbo en gerundio (ing) + complemento + ?`
+## Cuando se usa
+* Expresar acciones o estados que estaban llevándose a cabo en el pasado cuando otra acción o estado la interrumpe o refuerza `I was walking when I saw an eagle (Estaba caminando cuando vi un águila).`
+* Ofrecer contexto, es decir, dar información sobre hechos o situaciones en un tiempo específico. `Last year, I was studying for the exams (El año pasado, estaba estudiando para los exámenes)`
+* Mencionar dos o más acciones del pasado que sucedieron al mismo tiempo `While my son was playing videogames, I was sleeping in his bedroom (Mientras mi hijo estaba jugando videojuegos, yo estaba durmiendo en su recámara).`
+
+# Tiempo pasado perfecto simple
+
+## Estructura
+* [+] I had met them before the meeting `Sujeto + auxiliar had + verbo en pasado + complemento`
+* [-] I had not said how long will the video call is `Sujeto + auxiliary had + not + verbo en pasado + complemento` 
+* [?] Had I gone to eat before lunch time? `Auxiliar had + sujeto + verbo en pasado + complemento ?`
+
+## Cuando se puede usar
+* El pasado perfecto se usa para referirse a una acción que ocurrió en el pasado antes que otra. En este caso, la primera acción se conjuga en past perfect, mientras que la segunda, la más reciente, en pasado simple. `I had watched the movie before I read the book (Vi la película antes de leer el libro).`
+* Sirve para hablar de una acción que ocurrió antes de un tiempo específico en el pasado. Por ejemplo: ` had fallen asleep when the clock rang at 11 PM (Ya me había dormido cuando la alarma sonó a las 11 PM).`
+* Se utiliza para hablar de acciones que iniciaron en el pasado y continuaron hasta un tiempo determinado también en el pasado. Por ejemplo: `I had been happy in all my jobs until I got this one (Había sido feliz en todos mis trabajos hasta que entré a este).`
+* Es útil para el reporte indirecto con el fin de reutilizar lo dicho por una persona cuando esta habló en presente perfecto. Por ejemplo: `I have started a new degree →She said she had started a new degree (Empecé una nueva carrera → Ella dijo que empezó una nueva carrera).`
+* En algunas situaciones, se puede utilizar en oraciones condicionales. Por ejemplo: `If you had told me before, I would have helped you (Si me hubieras dicho antes, yo te hubiera ayudado).`
+## El past perfect y just
+Esta partícula gramatical ayuda a subrayar que una acción ocurrió poco tiempo antes de que sucediera otra, como en estos ejemplos:
+* The bus had just arrived to the station when I bought my ticket (El autobús acababa de llegar a la estación cuando compré mi boleto).
+## Errores
+1 Confundir past perfect con presente perfecto.
+¿Cómo evitarlo? Recuerda que el pasado perfecto contempla dos situaciones que ocurrieron en el pasado mientras que el presente perfecto relaciona un hecho del pasado con el presente.
+2 Confundir el pasado perfecto con el pasado simple.
+¿Cómo evitarlo? Si bien ambos tiempos verbales se refieren a acciones terminadas en el pasado, el pasado perfecto relaciona dos acciones.
+
+
+
 
 
 
