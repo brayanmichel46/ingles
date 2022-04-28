@@ -73,6 +73,18 @@ Esta partícula gramatical ayuda a subrayar que una acción ocurrió poco tiempo
 ¿Cómo evitarlo? Recuerda que el pasado perfecto contempla dos situaciones que ocurrieron en el pasado mientras que el presente perfecto relaciona un hecho del pasado con el presente.
 2 Confundir el pasado perfecto con el pasado simple.
 ¿Cómo evitarlo? Si bien ambos tiempos verbales se refieren a acciones terminadas en el pasado, el pasado perfecto relaciona dos acciones.
+## Link 
+https://www.britishcouncil.org.mx/blog/past-perfect#:~:text=El%20pasado%20perfecto%20se%20usa,m%C3%A1s%20reciente%2C%20en%20pasado%20simple.
+
+# Tiempo pasado perfecto continuo
+## Estructura
+* [+] I had been working here since I graduated. `Sujeto + verbo auxiliar (had been) + verbo –ing + complemento`
+* [-] I had not been travelling since the baby was born `Fórmula: Sujeto + had not been + verbo –ing + complemento`
+* [?] Had I been studying Arts for a long time before the visit to the MoMA? `Fórmula: Had + Sujeto + been + verbo –ing + complemento + ?`
+
+## Cuando se puede usar
+* Expresar una acción que inició en el pasado y se desarrolló durante algún tiempo hasta que otra acción la interrumpió. `She had been reading for seven hours when she fell asleep (Ella había estado leyendo por siete horas cuando se quedó dormida).`
+* Indicar una acción del pasado que provocó otra, también en el pasado. `I was tired because I had been working all day (Yo estaba cansado porque había estado trabajando todo el día).`
 
 
 
