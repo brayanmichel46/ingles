@@ -145,8 +145,35 @@ THE los cuales se utilizan en situaciones específicas
 * SUSTANTIVO MÁS NÚMERO: platform 10, route 66, page 4
 * LUGARES O INSTITUCIONES: church, class, Paris, Chile.
 * EXPRESIONES DE TIEMPO CON LAST / NEXT I saw him last weekend
-* CONCEPTOS GENERALES: life, death, life, etc.
+* CONCEPTOS GENERALES: people, life, death, life, etc.
 * SUSTANTIVOS ABSTRACTOS: education, art, sadness, science, etc.
+
+# VERBOS AUXILIARES
+## Can
+Por lo general es igual que «poder» en español, pero tiene algunas diferencias:
+
+* Solo se usa en el presente
+* Para el pasado, se usa «could«
+* Para el futuro, se usa `«will be able to»` (literalmente es «será capaz de»). Ej.: He‘ll be able to lift mountains. (Podrá levantar montañas.)
+* Se usa para expresar que sabes hacer algo (igual a «know how to»). Ej.: I can swim = I know how to swim. = Sé nadar.
+* Para pedir favores, siempre se usa «can» o «could» (en español se puede omitir) Ej.: Can you pass me the salt? = ¿Me puedes pasar la sal? = ¿Me pasas la sal?
+
+# Could
+Como ves, se puede usar como el pasado de «can». Pero también se puede usar en el presente para expresar una sugerencia, o de forma más educada que «can» para pedir favores.
+# Would
+Basta con saber que cuando quieres decir verbos que acaban en «-ría«, «-rían«, «-ríamos«, etc., usas «would» en inglés.
+# Should y Must
+Hay confusión entre estos porque para ambos solemos usar «deber» en español. Pero solo hay que recordar que:
+* usamos «should» para aconsejar y «must» para obligar
+* cuando queremos decir «debería«, usamos «should» y no «must»
+Might y May
+* Ambos pueden significar que «quizás» harás algo. A veces usamos «may» cuando es un poco más probable, pero es más común usar «might».
+* «May» también se usa en vez de «can» para pedir permiso de forma más educada y formal.
+# Shall
+No tiene equivalente en español. No es muy común, pero se usa para ofrecerse a hacer algo para alguien o con alguien.
+* Shall I open the window? (¿Abro la ventana?)
+* Shall we begin? (¿Empezamos?)
+* Se usaba más en inglés antiguo, y se usaba a veces también en vez de «will» para hacer preguntas.
 
 
 
