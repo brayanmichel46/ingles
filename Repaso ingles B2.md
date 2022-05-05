@@ -128,6 +128,15 @@ Nota: Vamos a utilizar A antes de palabras que comiencen sonido de consonante y 
 ## Definidos
 THE los cuales se utilizan en situaciones específicas
 * I want the house in front of the lighthouse (Quiero la casa frente al faro)
+* PAÍSES QUE TIENEN LAS PALABRAS: kindom, republic, states.
+* PAÍSES QUE SEAN NOMBRES PLURARES The Phillipines (Filipinas)
+* PUNTOS GEOGRÁFICOS: cordilleras, rios, oceanos, canals, etc.
+*  PERIODICOS The New York Times 
+*  EDIFICIOS RECONOCIDOS O PIEZAS DE ARTE The Taj Mahal
+*  ORGANIZACIONES The United Nations (Las naciones unidas)
+*  HOTELES BARES Y RESTAURANTES
+*  APELLIDOS DE FAMILIAS
+*  COSAS QUE EXISTEN QUE SON ÚNICAS The moon is bright (La luna es brillante)
 ## ZERO
 * NOMBRES PROPIOS : Mario, Friday, Spanish, June,
 * COMIDAS: breakfast, lunch, dinner, cheese, pizza, 
@@ -138,6 +147,7 @@ THE los cuales se utilizan en situaciones específicas
 * EXPRESIONES DE TIEMPO CON LAST / NEXT I saw him last weekend
 * CONCEPTOS GENERALES: people, life, death, life, etc.
 * SUSTANTIVOS ABSTRACTOS: education, art, sadness, science, etc.
+
 
 
 
