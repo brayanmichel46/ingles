@@ -145,7 +145,7 @@ THE los cuales se utilizan en situaciones específicas
 * SUSTANTIVO MÁS NÚMERO: platform 10, route 66, page 4
 * LUGARES O INSTITUCIONES: church, class, Paris, Chile.
 * EXPRESIONES DE TIEMPO CON LAST / NEXT I saw him last weekend
-* CONCEPTOS GENERALES: people, life, death, life, etc.
+* CONCEPTOS GENERALES: life, death, life, etc.
 * SUSTANTIVOS ABSTRACTOS: education, art, sadness, science, etc.
 
 
