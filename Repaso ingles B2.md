@@ -118,7 +118,24 @@ Used to se utiliza para expresar un hábito o circunstancia que ocurría en el p
 
 used to sirve tanto para acciones repetidas o hábitos como para condiciones, estados o características. Recuerda este detalle, porque es lo que te va a servir para diferenciarlo de would.
 
-# be/get used to
+# Articulos definidos e indefinidos
+## Indefinidos
+A/ AN (los cuales se ocupan en situaciones generales)
+* I want a house at the beach (Quiero una casa en la playa)
+* A specific (s es sonido de vocal)
+* An honest man (suena o sonido de vocal)
+Nota: Vamos a utilizar A antes de palabras que comiencen sonido de consonante y AN con palabras que comiencen con sonido de vocal. 
+## Definidos
+THE los cuales se utilizan en situaciones específicas
+* I want the house in front of the lighthouse (Quiero la casa frente al faro)
+## ZERO
+* NOMBRES PROPIOS : Mario, Friday, Spanish, June,
+* COMIDAS: breakfast, lunch, dinner, cheese, pizza, 
+* JUEGOS y DEPORTES: chess, football, soccer, basketball,
+* LUGARES RUTINARIOS: at home, at work, at school, in bed
+* SUSTANTIVO MÁS NÚMERO: platform 10, route 66, page 4
+* LUGARES O INSTITUCIONES: church, class, Paris, Chile.
+* EXPRESIONES DE TIEMPO CON LAST / NEXT I saw him last weekend
 
 
 
